@@ -1,0 +1,9 @@
+split,subset,environment,num_episodes,num_frames,episode_min,episode_max
+size_matched,train,A,65,178481,0,203
+size_matched,train,B,74,178458,227,438
+size_matched,train,C,68,178517,462,656
+size_matched,train,ABC_total,207,535456,0,656
+size_matched,val,A,23,61247,204,226
+size_matched,val,B,23,63507,439,461
+size_matched,val,C,22,61194,657,678
+size_matched,val,ABC_total,68,185948,204,678

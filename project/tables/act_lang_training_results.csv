@@ -1,0 +1,4 @@
+model,run_dir,train_frames,val_frames,steps,num_workers,elapsed_h,final_train_action_l1,final_val_action_l1,best_val_step,best_val_action_l1,periodic_checkpoints,self_check_passed,language_sensitivity_l1
+ACT-Lang-B,/EXT_DISK/users/zengzixuan/calvin_runs/act_lang_B/20260606_112848_act_lang_B_full_gpu0,330455,36641,100000,12,13.1927,0.245766,0.394312,95000,0.392651,9,true,0.008130
+ACT-Lang-ABC,/EXT_DISK/users/zengzixuan/calvin_runs/act_lang_ABC/20260606_163515_act_lang_ABC_full_gpu1,964219,107524,100000,16,10.1110,0.316102,0.411574,100000,0.411574,9,true,0.007477
+ACT-Lang-ABC-size-matched,/EXT_DISK/users/zengzixuan/calvin_runs/act_lang_ABC_size_matched/20260606_164015_act_lang_ABC_size_matched_full_gpu2,330546,107524,100000,16,10.0998,0.273167,0.475930,75000,0.471781,9,true,0.007691

@@ -1,0 +1,5 @@
+comparison,left_experiment,right_experiment,left_best_val_action_l1,right_best_val_action_l1,delta_left_minus_right,winner,notes
+full_ABC_vs_size_matched_on_ABC_val,act_ABC,act_ABC_size_matched,0.5551944971084595,0.5652964413166046,-0.010101944208145142,act_ABC,Full ABC data vs size-matched ABC; same ABC validation split
+full_ABC_aug_vs_full_ABC_on_ABC_val,act_ABC_aug,act_ABC,0.5559360273182392,0.5551944971084595,0.0007415302097797394,act_ABC,Augmentation effect on full ABC; same ABC validation split
+size_matched_aug_vs_size_matched_on_ABC_val,act_ABC_size_matched_aug,act_ABC_size_matched,0.5668818224221468,0.5652964413166046,0.001585381105542183,act_ABC_size_matched,Augmentation effect under size-matched data; same ABC validation split
+full_ABC_aug_vs_size_matched_aug_on_ABC_val,act_ABC_aug,act_ABC_size_matched_aug,0.5559360273182392,0.5668818224221468,-0.010945795103907585,act_ABC_aug,Full ABC data vs size-matched under augmentation; same ABC validation split

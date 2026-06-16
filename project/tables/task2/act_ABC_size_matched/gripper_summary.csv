@@ -1,0 +1,2 @@
+num_frames,close_count,open_count,close_fraction,open_fraction,switch_count,switch_rate_per_1000_frames,mean_run_length_frames,median_run_length_frames,q90_run_length_frames,q99_run_length_frames
+535456,244060,291396,0.45579842227932826,0.5442015777206717,13401,25.02726647941194,39.9534397851067,37.0,60.0,97.0

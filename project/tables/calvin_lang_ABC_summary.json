@@ -1,0 +1,42 @@
+{
+  "chunk_size_for_checks": 100,
+  "dataset_root": "/EXT_DISK/users/zengzixuan/processed-calvin/calvin_lang_ABC",
+  "environment_counts": {
+    "A": 6089,
+    "B": 6115,
+    "C": 5666
+  },
+  "fps": 30,
+  "language_embedding_dim": 384,
+  "num_frames": 1071743,
+  "num_language_segment_episodes": 17870,
+  "readback_checked_episode_positions": 128,
+  "readback_status": "passed",
+  "repo_id": "local/calvin_lang_ABC",
+  "segment_length_max": 65,
+  "segment_length_mean": 59.97442641298265,
+  "segment_length_median": 65.0,
+  "segment_length_min": 34,
+  "segments_at_least_chunk": 0,
+  "segments_shorter_than_chunk": 17870,
+  "split_counts": {
+    "train": 16083,
+    "val": 1787
+  },
+  "strict_counters": {
+    "annotation_intervals_seen": 53610,
+    "segments_selected": 17870,
+    "segments_skipped_no_overlap": 35740,
+    "segments_skipped_partial_scene_overlap": 0
+  },
+  "success_rate_requirement_checks": {
+    "action_padding_required_when_chunk_exceeds_segment": true,
+    "chunks_do_not_cross_language_segments": true,
+    "language_embedding_feature_present": true,
+    "one_language_segment_per_lerobot_episode": true,
+    "raw_language_text_saved_as_task": true,
+    "train_episodes_before_val_episodes": true
+  },
+  "unique_language_texts": 389,
+  "unique_task_names": 34
+}

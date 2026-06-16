@@ -1,0 +1,43 @@
+experiment,display_name,ablation_mode,action_dim,mean_pred_l1_delta,q90_pred_l1_delta
+act_lang_B,ACT-Lang-B,zero_language,0,0.4903525710105896,0.8559355735778809
+act_lang_B,ACT-Lang-B,zero_language,1,0.5432004332542419,1.4165070056915283
+act_lang_B,ACT-Lang-B,zero_language,2,0.5494034290313721,1.2253036499023438
+act_lang_B,ACT-Lang-B,zero_language,3,0.39236316084861755,0.690488338470459
+act_lang_B,ACT-Lang-B,zero_language,4,0.4763767719268799,0.9375563263893127
+act_lang_B,ACT-Lang-B,zero_language,5,0.38093745708465576,0.933652937412262
+act_lang_B,ACT-Lang-B,zero_language,6,0.44816726446151733,0.8992552161216736
+act_lang_B,ACT-Lang-B,wrong_language,0,0.6308064460754395,1.1708292961120605
+act_lang_B,ACT-Lang-B,wrong_language,1,0.7394330501556396,1.5836697816848755
+act_lang_B,ACT-Lang-B,wrong_language,2,0.6653880476951599,1.2819774150848389
+act_lang_B,ACT-Lang-B,wrong_language,3,0.41224247217178345,0.7138931155204773
+act_lang_B,ACT-Lang-B,wrong_language,4,0.5511963367462158,0.9881247878074646
+act_lang_B,ACT-Lang-B,wrong_language,5,0.5188381671905518,1.3783605098724365
+act_lang_B,ACT-Lang-B,wrong_language,6,0.5811247825622559,1.2336108684539795
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0,0.5656263828277588,0.9640874862670898
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,1,0.5198484063148499,1.0927022695541382
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,2,0.5493533611297607,1.0586597919464111
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,3,0.41209477186203003,0.6805180311203003
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,4,0.527002215385437,0.8584029078483582
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,5,0.4915026128292084,1.2893190383911133
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,6,0.5695169568061829,1.1937743425369263
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0,0.7046558856964111,1.3632961511611938
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1,0.6445251107215881,1.3018404245376587
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,2,0.6589788198471069,1.1476526260375977
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,3,0.46587052941322327,0.8166051506996155
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,4,0.6156631112098694,0.9996136426925659
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,5,0.7025411128997803,1.8367048501968384
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,6,0.6762871742248535,1.4205888509750366
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0,0.586159348487854,0.9662622213363647
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,1,0.5547600984573364,1.093631625175476
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,2,0.6366874575614929,1.0821195840835571
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,3,0.4688311219215393,0.7459737658500671
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,4,0.5727851390838623,0.8760159015655518
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,5,0.5630851984024048,1.5874416828155518
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,6,0.6242724061012268,1.310550332069397
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0,0.6721938848495483,1.330745816230774
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1,0.6955370903015137,1.4405666589736938
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,2,0.6820731163024902,1.1656395196914673
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,3,0.47078216075897217,0.7565568089485168
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,4,0.6542264223098755,1.0502214431762695
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,5,0.7406034469604492,1.7475659847259521
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,6,0.6550816297531128,1.288022518157959

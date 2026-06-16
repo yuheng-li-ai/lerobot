@@ -1,0 +1,36 @@
+experiment,task,action_dim,mean_pred_action,mean_abs_pred_action
+act_lang_B,lift the red block,0,0.28900596499443054,0.5753037929534912
+act_lang_B,lift the red block,1,1.0114507675170898,1.0390400886535645
+act_lang_B,lift the red block,2,0.091861292719841,0.6525083184242249
+act_lang_B,lift the red block,3,0.08107414841651917,0.23311369121074677
+act_lang_B,lift the red block,4,-0.1552448719739914,0.4681999087333679
+act_lang_B,lift the red block,5,-0.057352758944034576,0.37772271037101746
+act_lang_B,lift the red block,6,0.1207764521241188,1.0071046352386475
+act_lang_B,"slide the door to the left, then let it go",0,-0.09513267874717712,1.162700891494751
+act_lang_B,"slide the door to the left, then let it go",1,1.0568609237670898,1.1848373413085938
+act_lang_B,"slide the door to the left, then let it go",2,0.17043942213058472,0.5301312208175659
+act_lang_B,"slide the door to the left, then let it go",3,0.028148330748081207,0.4057238698005676
+act_lang_B,"slide the door to the left, then let it go",4,-0.03642149269580841,0.41088026762008667
+act_lang_B,"slide the door to the left, then let it go",5,0.15268255770206451,0.26554396748542786
+act_lang_B,"slide the door to the left, then let it go",6,0.222640722990036,1.0028884410858154
+act_lang_B,grasp the blue block from the drawer,0,-0.053296640515327454,0.3006625771522522
+act_lang_B,grasp the blue block from the drawer,1,1.1273071765899658,1.1781166791915894
+act_lang_B,grasp the blue block from the drawer,2,-0.06358093023300171,1.3726567029953003
+act_lang_B,grasp the blue block from the drawer,3,0.08293800055980682,0.3127133846282959
+act_lang_B,grasp the blue block from the drawer,4,-0.018333615735173225,0.7605862617492676
+act_lang_B,grasp the blue block from the drawer,5,0.02354210801422596,0.10522197932004929
+act_lang_B,grasp the blue block from the drawer,6,-0.2903482913970947,0.9636454582214355
+act_lang_B,move the door to the right,0,0.21236595511436462,1.1445170640945435
+act_lang_B,move the door to the right,1,1.0894478559494019,1.2684193849563599
+act_lang_B,move the door to the right,2,0.16353802382946014,0.43778446316719055
+act_lang_B,move the door to the right,3,-0.1110760048031807,0.3014119565486908
+act_lang_B,move the door to the right,4,-0.13903850317001343,0.3029540181159973
+act_lang_B,move the door to the right,5,-0.3350200951099396,0.45228686928749084
+act_lang_B,move the door to the right,6,0.3721301555633545,1.0435295104980469
+act_lang_B,push down the button to turn on the green light,0,0.18510200083255768,0.9680314064025879
+act_lang_B,push down the button to turn on the green light,1,0.4472668170928955,0.5630295276641846
+act_lang_B,push down the button to turn on the green light,2,0.60776686668396,1.058030366897583
+act_lang_B,push down the button to turn on the green light,3,0.12755461037158966,0.26064297556877136
+act_lang_B,push down the button to turn on the green light,4,-0.4322354197502136,0.7501221299171448
+act_lang_B,push down the button to turn on the green light,5,0.09064482897520065,0.357313871383667
+act_lang_B,push down the button to turn on the green light,6,0.31335535645484924,0.9754063487052917

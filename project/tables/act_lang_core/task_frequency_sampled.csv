@@ -1,0 +1,41 @@
+dataset_group,task,sampled_count
+B,push the object into the drawer,20
+B,push the block into the drawer,19
+B,go push the pink block to the right,19
+B,push left the pink block,18
+B,push the pink block to the right,18
+B,unstack the blocks,17
+B,push the blue block to the left,17
+B,slide right the pink block,16
+B,rotate the blue block towards the right,15
+B,slide the pink block to the left,15
+B,sweep the blue block to the right,15
+B,push right the blue block,15
+B,slide left the blue block,15
+B,remove the top block,14
+B,go slide the blue block to the right,14
+B,"grasp the blue block, then lift it up",14
+B,pick up the red block from the drawer,14
+B,move the light switch to turn on the yellow light,13
+B,pick up the red block,13
+B,push the drawer,13
+ABC,push the pink block to the right,17
+ABC,go close the drawer,16
+ABC,push the object that it falls into the drawer,16
+ABC,push the drawer,15
+ABC,turn on the light bulb,15
+ABC,push the blue block towards the right,15
+ABC,push the pink block to the left,15
+ABC,slide left the pink block,15
+ABC,take the red block and rotate it right,15
+ABC,slide the pink block to the left,15
+ABC,pick up the blue block on the table,14
+ABC,slide the red block towards the right,14
+ABC,move the light switch to turn off the light bulb,14
+ABC,push the pink block towards the left,14
+ABC,lift the blue block in the drawer,14
+ABC,pick up the red block from the drawer,14
+ABC,push the block into the drawer,14
+ABC,put the block on top of another block,13
+ABC,go towards the pink block in the drawer and grasp it,13
+ABC,go towards the red block in the drawer and pick it up,13

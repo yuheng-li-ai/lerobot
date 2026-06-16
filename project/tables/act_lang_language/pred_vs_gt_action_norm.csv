@@ -1,0 +1,385 @@
+experiment,display_name,task,gt_action_norm_first_step_first6,pred_action_norm_first_step_first6
+act_lang_B,ACT-Lang-B,lift the red block,3.2645652294158936,3.309164524078369
+act_lang_B,ACT-Lang-B,"slide the door to the left, then let it go",1.9977831840515137,1.273485541343689
+act_lang_B,ACT-Lang-B,grasp the blue block from the drawer,5.671947002410889,4.9214768409729
+act_lang_B,ACT-Lang-B,move the door to the right,1.9884239435195923,2.195655107498169
+act_lang_B,ACT-Lang-B,push down the button to turn on the green light,6.938068866729736,2.314317226409912
+act_lang_B,ACT-Lang-B,"grasp the drawer handle, then open it",1.4754694700241089,1.2895232439041138
+act_lang_B,ACT-Lang-B,turn on the green lamp,2.1777939796447754,3.7032980918884277
+act_lang_B,ACT-Lang-B,"grasp the red block on the table, then lift it up",1.094842553138733,0.8969323039054871
+act_lang_B,ACT-Lang-B,push the object that it falls into the drawer,2.890826940536499,2.507894277572632
+act_lang_B,ACT-Lang-B,take off the stacked block,3.222677707672119,1.5486384630203247
+act_lang_B,ACT-Lang-B,grasp the red block and lift it up,2.671161413192749,2.592097282409668
+act_lang_B,ACT-Lang-B,grasp the blue block and turn it left,2.332043170928955,2.5547423362731934
+act_lang_B,ACT-Lang-B,push the blue block towards the left,3.8459062576293945,0.5265656113624573
+act_lang_B,ACT-Lang-B,push the object into the drawer,0.9694327712059021,1.1012630462646484
+act_lang_B,ACT-Lang-B,"grasp the pink block, then rotate it left",4.1017022132873535,3.4729323387145996
+act_lang_B,ACT-Lang-B,grasp the pink block and rotate it right,2.3952832221984863,2.866022825241089
+act_lang_B,ACT-Lang-B,push the red block to the right,0.7685672044754028,0.858421266078949
+act_lang_B,ACT-Lang-B,"grasp the drawer handle, then open it",2.053628444671631,1.8688619136810303
+act_lang_B,ACT-Lang-B,pick up the blue block from the sliding cabinet,3.851447582244873,3.658374309539795
+act_lang_B,ACT-Lang-B,push down the button to turn on the led,1.1776447296142578,1.2502455711364746
+act_lang_B,ACT-Lang-B,toggle the button to turn off the led light,1.7316768169403076,1.2703492641448975
+act_lang_B,ACT-Lang-B,move the door all the way to the left,0.9120736122131348,1.0374423265457153
+act_lang_B,ACT-Lang-B,put the object in the slider,2.9307644367218018,4.405533313751221
+act_lang_B,ACT-Lang-B,push the button to turn on the led light,1.4745514392852783,1.6328822374343872
+act_lang_B,ACT-Lang-B,go towards the drawer and store the object,2.8710153102874756,2.2464940547943115
+act_lang_B,ACT-Lang-B,push the red block to the right,2.6047263145446777,2.467869281768799
+act_lang_B,ACT-Lang-B,grasp the red block on the table and lift it up,2.741834878921509,1.6317304372787476
+act_lang_B,ACT-Lang-B,push right the blue block,1.1946698427200317,1.334938883781433
+act_lang_B,ACT-Lang-B,go towards the pink block in the drawer and lift it,1.3421539068222046,1.7903918027877808
+act_lang_B,ACT-Lang-B,sweep the pink block to the left,1.9834589958190918,2.443342447280884
+act_lang_B,ACT-Lang-B,go push the pink block to the left,1.8524360656738281,1.2476613521575928
+act_lang_B,ACT-Lang-B,go slide the red block to the left,1.348404884338379,1.0272189378738403
+act_lang_B,ACT-Lang-B,grasp the pink block and turn it left,1.7367944717407227,1.677154302597046
+act_lang_B,ACT-Lang-B,grasp the red block and rotate it right,2.289424419403076,2.644618034362793
+act_lang_B,ACT-Lang-B,pick up the blue block on the table,2.1504065990448,2.5188255310058594
+act_lang_B,ACT-Lang-B,"move to the drawer, then place the object",2.6955723762512207,3.2207114696502686
+act_lang_B,ACT-Lang-B,open the cabinet drawer,2.57407283782959,2.9962716102600098
+act_lang_B,ACT-Lang-B,go push the pink block to the left,4.930278301239014,4.327449798583984
+act_lang_B,ACT-Lang-B,grasp the blue block and turn it left,3.5077390670776367,2.9735846519470215
+act_lang_B,ACT-Lang-B,"grasp the blue block on the table, then lift it up",1.8468255996704102,1.5625437498092651
+act_lang_B,ACT-Lang-B,rotate the blue block towards the left,1.7864834070205688,1.1614323854446411
+act_lang_B,ACT-Lang-B,remove the top block,2.7657735347747803,1.2470005750656128
+act_lang_B,ACT-Lang-B,take off the block that is on top of the other one,1.257061243057251,2.511586904525757
+act_lang_B,ACT-Lang-B,slide right the pink block,0.5695400834083557,0.6400533318519592
+act_lang_B,ACT-Lang-B,rotate the blue block towards the right,3.502620220184326,2.8108768463134766
+act_lang_B,ACT-Lang-B,slide the red block towards the right,1.6646591424942017,0.6958881616592407
+act_lang_B,ACT-Lang-B,slide the pink block towards the left,1.9964545965194702,1.746962547302246
+act_lang_B,ACT-Lang-B,rotate the blue block to the right,3.361544609069824,3.219766855239868
+act_lang_B,ACT-Lang-B,"grasp the pink block, then turn it right",1.9415887594223022,1.406006932258606
+act_lang_B,ACT-Lang-B,grasp the pink block and turn it left,2.3703033924102783,0.9780421853065491
+act_lang_B,ACT-Lang-B,close the cabinet drawer,1.824613094329834,1.1887357234954834
+act_lang_B,ACT-Lang-B,pick up the pink block from the table,2.021214008331299,2.0934290885925293
+act_lang_B,ACT-Lang-B,sweep the object into the drawer,1.443522572517395,1.10140061378479
+act_lang_B,ACT-Lang-B,push the drawer,1.9932194948196411,2.038541078567505
+act_lang_B,ACT-Lang-B,push the button to turn off the led light,1.9405090808868408,1.831188678741455
+act_lang_B,ACT-Lang-B,push the object into the drawer,2.4460365772247314,1.4736318588256836
+act_lang_B,ACT-Lang-B,grasp the pink block lying in the drawer,4.200035095214844,3.502899169921875
+act_lang_B,ACT-Lang-B,"grasp the blue block, then lift it up",3.435276985168457,3.09981632232666
+act_lang_B,ACT-Lang-B,lift the pink block in the drawer,2.770061492919922,2.009925603866577
+act_lang_B,ACT-Lang-B,"grasp the blue block, then lift it up",1.031561017036438,1.0198793411254883
+act_lang_B,ACT-Lang-B,pick up the pink block in the sliding cabinet,2.048466444015503,1.8456835746765137
+act_lang_B,ACT-Lang-B,go slide the pink block to the right,1.4780464172363281,1.2147397994995117
+act_lang_B,ACT-Lang-B,push the pink block towards the left,2.1584386825561523,2.0186355113983154
+act_lang_B,ACT-Lang-B,grasp the handle of the drawer and open it,1.198114037513733,1.971829891204834
+act_lang_B,ACT-Lang-B,lift the blue block lying in the slider,0.7127852439880371,0.8380903005599976
+act_lang_B,ACT-Lang-B,go push the blue block to the right,1.0638316869735718,1.175316333770752
+act_lang_B,ACT-Lang-B,slide the door all the way to the left,0.6509993672370911,1.4868675470352173
+act_lang_B,ACT-Lang-B,take off the block that is on top of the other one,1.1983791589736938,1.6999717950820923
+act_lang_B,ACT-Lang-B,lift the red block,1.9625344276428223,1.3886202573776245
+act_lang_B,ACT-Lang-B,in the cabinet pick up the red block,3.877031087875366,4.235095024108887
+act_lang_B,ACT-Lang-B,"move to the drawer, then place the object",0.9165968298912048,0.44791141152381897
+act_lang_B,ACT-Lang-B,move up the switch,4.224688529968262,4.158090114593506
+act_lang_B,ACT-Lang-B,grasp the blue block from the drawer,3.82135009765625,2.5160067081451416
+act_lang_B,ACT-Lang-B,push the switch downwards,1.4358367919921875,1.3627204895019531
+act_lang_B,ACT-Lang-B,go towards the red block in the drawer and grasp it,2.632166862487793,3.8482909202575684
+act_lang_B,ACT-Lang-B,push right the pink block,1.8276289701461792,2.2882394790649414
+act_lang_B,ACT-Lang-B,"grasp the blue block on the table, then lift it up",2.6284046173095703,2.3349292278289795
+act_lang_B,ACT-Lang-B,push left the pink block,2.1643385887145996,2.7562928199768066
+act_lang_B,ACT-Lang-B,rotate the pink block 90 degrees to the left,1.725633144378662,0.9346723556518555
+act_lang_B,ACT-Lang-B,"grasp the pink block, then turn it right",2.535616159439087,0.8060500621795654
+act_lang_B,ACT-Lang-B,in the slider grasp the pink block,1.958491325378418,1.3970173597335815
+act_lang_B,ACT-Lang-B,grasp the blue block lying in the slider,3.4582974910736084,3.1759073734283447
+act_lang_B,ACT-Lang-B,"grasp the door handle, then move the door to the right",2.29980206489563,2.283764362335205
+act_lang_B,ACT-Lang-B,turn on the green lamp,1.3832414150238037,1.1152476072311401
+act_lang_B,ACT-Lang-B,pick up the pink block in the drawer,0.8888483047485352,1.2617276906967163
+act_lang_B,ACT-Lang-B,pull the handle of the drawer,2.1045029163360596,1.3519563674926758
+act_lang_B,ACT-Lang-B,lift the red block from the table,1.067679762840271,0.6630696058273315
+act_lang_B,ACT-Lang-B,go towards the red block in the drawer and grasp it,3.5728774070739746,3.7815167903900146
+act_lang_B,ACT-Lang-B,grasp the red block and lift it up,0.997575044631958,1.1426868438720703
+act_lang_B,ACT-Lang-B,lift the blue block lying in the cabinet,2.4441583156585693,0.79200679063797
+act_lang_B,ACT-Lang-B,push right the red block,1.9558913707733154,2.2182376384735107
+act_lang_B,ACT-Lang-B,lift the red block on the shelf,0.8741556406021118,0.9623158574104309
+act_lang_B,ACT-Lang-B,slide the red block to the left,1.7239941358566284,1.2085379362106323
+act_lang_B,ACT-Lang-B,go slide the red block to the left,1.4565778970718384,1.1694231033325195
+act_lang_B,ACT-Lang-B,go slide the red block to the left,1.9884380102157593,1.2446740865707397
+act_lang_B,ACT-Lang-B,go slide the pink block to the right,1.5137923955917358,1.2636141777038574
+act_lang_B,ACT-Lang-B,rotate the red block 90 degrees to the right,2.6698391437530518,2.0894789695739746
+act_lang_B,ACT-Lang-B,take the blue block and turn it right,3.99045991897583,4.403649806976318
+act_lang_B,ACT-Lang-B,lift the pink block,3.4166407585144043,2.8562352657318115
+act_lang_B,ACT-Lang-B,pick up the pink block lying in the drawer,3.2203614711761475,2.5274713039398193
+act_lang_B,ACT-Lang-B,place the block on top of another block,2.1430656909942627,3.37091326713562
+act_lang_B,ACT-Lang-B,stack blocks on top of each other,1.265142560005188,0.9816873073577881
+act_lang_B,ACT-Lang-B,put the grasped block on top of a block,1.9923276901245117,1.2396397590637207
+act_lang_B,ACT-Lang-B,push the red block towards the right,1.6998897790908813,1.334363579750061
+act_lang_B,ACT-Lang-B,go push the pink block to the left,1.7627426385879517,1.821101188659668
+act_lang_B,ACT-Lang-B,grasp the red block from the drawer,1.492580533027649,1.5735483169555664
+act_lang_B,ACT-Lang-B,remove a block from the stack,2.242180585861206,1.8867950439453125
+act_lang_B,ACT-Lang-B,in the cabinet grasp the pink block,2.8435661792755127,1.5387792587280273
+act_lang_B,ACT-Lang-B,push the red block towards the left,1.2305632829666138,1.2791452407836914
+act_lang_B,ACT-Lang-B,go push the red block to the left,1.27784264087677,1.2860475778579712
+act_lang_B,ACT-Lang-B,slide the blue block to the right,1.0944976806640625,1.105681300163269
+act_lang_B,ACT-Lang-B,sweep the blue block to the left,1.0021991729736328,0.9167432188987732
+act_lang_B,ACT-Lang-B,collapse the stacked blocks,1.1043639183044434,1.0363863706588745
+act_lang_B,ACT-Lang-B,put the block on top of another block,1.4893274307250977,0.9036257266998291
+act_lang_B,ACT-Lang-B,lift the blue block on the shelf,2.334455966949463,1.6544896364212036
+act_lang_B,ACT-Lang-B,move the sliding door to the right,1.1973565816879272,1.6662341356277466
+act_lang_B,ACT-Lang-B,push the door to the right,1.0926804542541504,0.7378012537956238
+act_lang_B,ACT-Lang-B,move up the switch,2.285411834716797,1.1618728637695312
+act_lang_B,ACT-Lang-B,"grasp the door handle, then move the door to the right",1.4053844213485718,0.7624517679214478
+act_lang_B,ACT-Lang-B,lift the pink block lying on the shelf,4.1804585456848145,4.6926703453063965
+act_lang_B,ACT-Lang-B,go slide the blue block to the right,2.259450912475586,2.48177170753479
+act_lang_B,ACT-Lang-B,place the block on top of another block,1.1685892343521118,0.9356786608695984
+act_lang_B,ACT-Lang-B,"grasp the red block, then rotate it left",0.4522397816181183,0.6995277404785156
+act_lang_B,ACT-Lang-B,go push the blue block to the right,2.1725051403045654,2.56844162940979
+act_lang_B,ACT-Lang-B,push right the pink block,1.040805697441101,0.9709466695785522
+act_lang_B,ACT-Lang-B,rotate the blue block towards the right,3.769089698791504,3.285717725753784
+act_lang_B,ACT-Lang-B,push the pink block towards the right,0.7690148949623108,1.0807127952575684
+act_lang_B,ACT-Lang-B,rotate the red block towards the right,3.4768223762512207,4.086578845977783
+act_lang_ABC_200k,ACT-Lang-ABC 200k,push the object into the drawer,2.2659554481506348,2.239546060562134
+act_lang_ABC_200k,ACT-Lang-ABC 200k,turn on the yellow lamp,2.6698477268218994,2.06364107131958
+act_lang_ABC_200k,ACT-Lang-ABC 200k,push the switch upwards,2.3825995922088623,1.9710544347763062
+act_lang_ABC_200k,ACT-Lang-ABC 200k,"grasp the pink block, then lift it up",1.2442721128463745,0.7993360161781311
+act_lang_ABC_200k,ACT-Lang-ABC 200k,push right the blue block,4.905635356903076,3.3651363849639893
+act_lang_ABC_200k,ACT-Lang-ABC 200k,push right the pink block,0.9821180701255798,1.185267686843872
+act_lang_ABC_200k,ACT-Lang-ABC 200k,push the sliding door to the right,5.427858352661133,3.549678325653076
+act_lang_ABC_200k,ACT-Lang-ABC 200k,slide down the switch,1.4581727981567383,1.7719954252243042
+act_lang_ABC_200k,ACT-Lang-ABC 200k,toggle the light switch to turn on the light bulb,4.238971710205078,4.343358516693115
+act_lang_ABC_200k,ACT-Lang-ABC 200k,unstack the blocks,2.2646868228912354,1.1281359195709229
+act_lang_ABC_200k,ACT-Lang-ABC 200k,push left the red block,2.3228583335876465,2.4650721549987793
+act_lang_ABC_200k,ACT-Lang-ABC 200k,rotate right the red block,3.6313681602478027,1.5359898805618286
+act_lang_ABC_200k,ACT-Lang-ABC 200k,push the button to turn on the led,2.9588067531585693,1.9419511556625366
+act_lang_ABC_200k,ACT-Lang-ABC 200k,close the drawer,2.745415687561035,2.3337996006011963
+act_lang_ABC_200k,ACT-Lang-ABC 200k,"grasp the door handle, then move the door to the right",2.3255836963653564,1.5766031742095947
+act_lang_ABC_200k,ACT-Lang-ABC 200k,push right the blue block,0.8254066109657288,0.9902774095535278
+act_lang_ABC_200k,ACT-Lang-ABC 200k,pick up the red block lying in the drawer,2.533212900161743,1.3850226402282715
+act_lang_ABC_200k,ACT-Lang-ABC 200k,push the handle of the drawer,1.4408748149871826,1.328561544418335
+act_lang_ABC_200k,ACT-Lang-ABC 200k,turn off the led light,3.1214354038238525,4.274557113647461
+act_lang_ABC_200k,ACT-Lang-ABC 200k,pick up the blue block from the shelf,0.9890284538269043,1.1012639999389648
+act_lang_ABC_200k,ACT-Lang-ABC 200k,slide left the blue block,0.7408639192581177,0.9511317014694214
+act_lang_ABC_200k,ACT-Lang-ABC 200k,rotate the pink block 90 degrees to the left,3.689990758895874,3.194920778274536
+act_lang_ABC_200k,ACT-Lang-ABC 200k,"grasp the red block, then rotate it left",3.031304121017456,3.0861494541168213
+act_lang_ABC_200k,ACT-Lang-ABC 200k,lift the red block lying in the drawer,2.87998366355896,2.6853151321411133
+act_lang_ABC_200k,ACT-Lang-ABC 200k,grasp the red block on the table and lift it up,0.8012176156044006,0.4811548888683319
+act_lang_ABC_200k,ACT-Lang-ABC 200k,in the cabinet grasp the blue block,2.8927605152130127,2.2906014919281006
+act_lang_ABC_200k,ACT-Lang-ABC 200k,"grasp the blue block, then rotate it left",1.1694846153259277,0.9491345286369324
+act_lang_ABC_200k,ACT-Lang-ABC 200k,go slide the pink block to the left,1.099672555923462,1.2076640129089355
+act_lang_ABC_200k,ACT-Lang-ABC 200k,grasp the blue block from the drawer,3.582700729370117,3.4095964431762695
+act_lang_ABC_200k,ACT-Lang-ABC 200k,slide the door all the way to the right,4.504691123962402,1.4631253480911255
+act_lang_ABC_200k,ACT-Lang-ABC 200k,rotate the blue block towards the right,2.2921855449676514,2.5494954586029053
+act_lang_ABC_200k,ACT-Lang-ABC 200k,"grasp the blue block, then rotate it right",2.596754312515259,2.835526943206787
+act_lang_ABC_200k,ACT-Lang-ABC 200k,go push the pink block to the left,1.2848536968231201,1.329966425895691
+act_lang_ABC_200k,ACT-Lang-ABC 200k,slide the red block to the right,2.032775640487671,1.5025100708007812
+act_lang_ABC_200k,ACT-Lang-ABC 200k,move the door all the way to the left,4.372038841247559,2.803124189376831
+act_lang_ABC_200k,ACT-Lang-ABC 200k,turn on the green lamp,1.1935608386993408,1.822386384010315
+act_lang_ABC_200k,ACT-Lang-ABC 200k,pick up the blue block on the table,1.1505200862884521,0.89398592710495
+act_lang_ABC_200k,ACT-Lang-ABC 200k,grasp the blue block and turn it left,3.8437695503234863,2.882208824157715
+act_lang_ABC_200k,ACT-Lang-ABC 200k,rotate the blue block to the left,1.632548213005066,1.0250208377838135
+act_lang_ABC_200k,ACT-Lang-ABC 200k,pick up the red block,2.8307242393493652,2.7818515300750732
+act_lang_ABC_200k,ACT-Lang-ABC 200k,"grasp the drawer handle, then close it",1.7497806549072266,1.4792053699493408
+act_lang_ABC_200k,ACT-Lang-ABC 200k,pick up the red block lying in the drawer,1.581466794013977,1.683608889579773
+act_lang_ABC_200k,ACT-Lang-ABC 200k,"grasp the handle of the drawer, then close it",1.2291196584701538,1.7096624374389648
+act_lang_ABC_200k,ACT-Lang-ABC 200k,turn off the green light,1.478740930557251,0.6137170791625977
+act_lang_ABC_200k,ACT-Lang-ABC 200k,grasp the red block and turn it left,3.8980214595794678,4.193897724151611
+act_lang_ABC_200k,ACT-Lang-ABC 200k,grasp the pink block and turn it right,1.4812449216842651,1.6906975507736206
+act_lang_ABC_200k,ACT-Lang-ABC 200k,put the grasped object in the sliding cabinet,1.110352873802185,2.8224096298217773
+act_lang_ABC_200k,ACT-Lang-ABC 200k,store the grasped object in the drawer,0.7293274402618408,1.1806291341781616
+act_lang_ABC_200k,ACT-Lang-ABC 200k,slide down the switch,2.102067708969116,1.878132700920105
+act_lang_ABC_200k,ACT-Lang-ABC 200k,push the red block towards the left,1.09792959690094,1.0276315212249756
+act_lang_ABC_200k,ACT-Lang-ABC 200k,slide left the blue block,0.8576554656028748,0.9354358911514282
+act_lang_ABC_200k,ACT-Lang-ABC 200k,toggle the button to turn off the green light,2.7810206413269043,1.4334170818328857
+act_lang_ABC_200k,ACT-Lang-ABC 200k,go towards the red block in the drawer and grasp it,2.972925901412964,3.557091474533081
+act_lang_ABC_200k,ACT-Lang-ABC 200k,move the door all the way to the left and let go,1.4029356241226196,0.5756074786186218
+act_lang_ABC_200k,ACT-Lang-ABC 200k,push the switch downwards,3.768425941467285,1.767539381980896
+act_lang_ABC_200k,ACT-Lang-ABC 200k,grasp the red block on the table and lift it up,2.358137369155884,1.608280897140503
+act_lang_ABC_200k,ACT-Lang-ABC 200k,in the cabinet grasp the pink block,4.00227165222168,2.977888584136963
+act_lang_ABC_200k,ACT-Lang-ABC 200k,slide left the pink block,1.3643275499343872,1.4010608196258545
+act_lang_ABC_200k,ACT-Lang-ABC 200k,push the door to the right,1.6546440124511719,0.3766331076622009
+act_lang_ABC_200k,ACT-Lang-ABC 200k,lift the blue block lying on the shelf,1.4482841491699219,1.3793165683746338
+act_lang_ABC_200k,ACT-Lang-ABC 200k,grasp the blue block lying in the cabinet,1.4875283241271973,1.143176794052124
+act_lang_ABC_200k,ACT-Lang-ABC 200k,slide right the blue block,5.934942245483398,3.380286455154419
+act_lang_ABC_200k,ACT-Lang-ABC 200k,rotate the red block towards the left,0.9021803736686707,0.7637470364570618
+act_lang_ABC_200k,ACT-Lang-ABC 200k,push the sliding door to the left,2.213059186935425,1.6435083150863647
+act_lang_ABC_200k,ACT-Lang-ABC 200k,grasp the blue block lying in the drawer,1.0424402952194214,0.8338326811790466
+act_lang_ABC_200k,ACT-Lang-ABC 200k,rotate the pink block towards the left,3.3710646629333496,3.1289472579956055
+act_lang_ABC_200k,ACT-Lang-ABC 200k,grasp the red block and turn it left,1.1694103479385376,0.7267219424247742
+act_lang_ABC_200k,ACT-Lang-ABC 200k,"grasp the red block, then turn it left",0.7352203726768494,0.8838000893592834
+act_lang_ABC_200k,ACT-Lang-ABC 200k,"move to the drawer, then place the object",3.031872510910034,3.7696456909179688
+act_lang_ABC_200k,ACT-Lang-ABC 200k,lift the red block lying in the cabinet,2.0040857791900635,1.948034405708313
+act_lang_ABC_200k,ACT-Lang-ABC 200k,take the blue block and turn it left,2.3717567920684814,1.772108793258667
+act_lang_ABC_200k,ACT-Lang-ABC 200k,grasp the blue block and rotate it right,2.940131664276123,3.139848232269287
+act_lang_ABC_200k,ACT-Lang-ABC 200k,slide left the red block,1.8350762128829956,0.6433998346328735
+act_lang_ABC_200k,ACT-Lang-ABC 200k,pick up the blue block from the table,1.7089370489120483,1.2806824445724487
+act_lang_ABC_200k,ACT-Lang-ABC 200k,pick up the red block in the drawer,4.7053632736206055,2.9391348361968994
+act_lang_ABC_200k,ACT-Lang-ABC 200k,lift the blue block lying on the shelf,1.1384071111679077,1.2302054166793823
+act_lang_ABC_200k,ACT-Lang-ABC 200k,push the pink block to the left,3.7307324409484863,3.867403507232666
+act_lang_ABC_200k,ACT-Lang-ABC 200k,"grasp the red block, then turn it left",2.9328012466430664,3.0237035751342773
+act_lang_ABC_200k,ACT-Lang-ABC 200k,push the pink block towards the left,1.1881508827209473,1.0618740320205688
+act_lang_ABC_200k,ACT-Lang-ABC 200k,open the drawer,1.9074007272720337,2.3750171661376953
+act_lang_ABC_200k,ACT-Lang-ABC 200k,open the cabinet drawer,1.0199099779129028,1.6924134492874146
+act_lang_ABC_200k,ACT-Lang-ABC 200k,move the light switch to turn on the yellow light,1.018183708190918,1.255002737045288
+act_lang_ABC_200k,ACT-Lang-ABC 200k,rotate the pink block towards the left,2.9238295555114746,2.9291043281555176
+act_lang_ABC_200k,ACT-Lang-ABC 200k,rotate the blue block 90 degrees to the right,1.6507846117019653,0.4919663965702057
+act_lang_ABC_200k,ACT-Lang-ABC 200k,"slide the door to the right, then let it go",3.1896986961364746,1.7228410243988037
+act_lang_ABC_200k,ACT-Lang-ABC 200k,go slide the pink block to the left,1.1459510326385498,1.2051876783370972
+act_lang_ABC_200k,ACT-Lang-ABC 200k,toggle the button to turn off the led,1.4142298698425293,1.0867093801498413
+act_lang_ABC_200k,ACT-Lang-ABC 200k,take the blue block and rotate it left,3.077848434448242,3.5200860500335693
+act_lang_ABC_200k,ACT-Lang-ABC 200k,rotate the red block to the left,4.016660213470459,2.9349119663238525
+act_lang_ABC_200k,ACT-Lang-ABC 200k,move the door to the right side,1.9708188772201538,2.6634254455566406
+act_lang_ABC_200k,ACT-Lang-ABC 200k,slide the door all the way to the right,1.3192877769470215,2.012547254562378
+act_lang_ABC_200k,ACT-Lang-ABC 200k,grasp the blue block on the table and lift it up,4.168272972106934,2.4970502853393555
+act_lang_ABC_200k,ACT-Lang-ABC 200k,push left the red block,2.5591022968292236,3.1135730743408203
+act_lang_ABC_200k,ACT-Lang-ABC 200k,take the pink block and rotate it right,1.2440803050994873,0.9692106246948242
+act_lang_ABC_200k,ACT-Lang-ABC 200k,go close the drawer,1.762491226196289,1.6772228479385376
+act_lang_ABC_200k,ACT-Lang-ABC 200k,grasp the pink block on the table and lift it up,2.097275972366333,1.2149466276168823
+act_lang_ABC_200k,ACT-Lang-ABC 200k,"grasp the pink block, then rotate it right",1.0127322673797607,1.511993169784546
+act_lang_ABC_200k,ACT-Lang-ABC 200k,slide the pink block towards the left,1.645063042640686,1.6645208597183228
+act_lang_ABC_200k,ACT-Lang-ABC 200k,take the pink block and turn it right,1.441382646560669,1.668066143989563
+act_lang_ABC_200k,ACT-Lang-ABC 200k,go to the tower of blocks and take off the top one,1.9152188301086426,1.5473127365112305
+act_lang_ABC_200k,ACT-Lang-ABC 200k,put the block on top of another block,0.9072011113166809,1.1026005744934082
+act_lang_ABC_200k,ACT-Lang-ABC 200k,toggle the light switch to turn off the yellow light,1.609043836593628,1.8678096532821655
+act_lang_ABC_200k,ACT-Lang-ABC 200k,push the red block towards the left,2.9075183868408203,2.863358497619629
+act_lang_ABC_200k,ACT-Lang-ABC 200k,stack the blocks,1.0607986450195312,0.7075054049491882
+act_lang_ABC_200k,ACT-Lang-ABC 200k,move the light switch to turn on the light bulb,2.5758156776428223,2.081143379211426
+act_lang_ABC_200k,ACT-Lang-ABC 200k,"grasp the pink block, then lift it up",2.1299386024475098,2.205226182937622
+act_lang_ABC_200k,ACT-Lang-ABC 200k,go slide the pink block to the left,1.4393666982650757,1.404618501663208
+act_lang_ABC_200k,ACT-Lang-ABC 200k,rotate right the blue block,2.3591926097869873,2.18640398979187
+act_lang_ABC_200k,ACT-Lang-ABC 200k,grasp the door handle and slide the door to the left,0.9480414986610413,0.9803952574729919
+act_lang_ABC_200k,ACT-Lang-ABC 200k,store the object in the drawer,2.0885376930236816,2.0432755947113037
+act_lang_ABC_200k,ACT-Lang-ABC 200k,stack the block on top of another block,1.112727165222168,0.8585420846939087
+act_lang_ABC_200k,ACT-Lang-ABC 200k,go push the red block to the left,1.4458116292953491,1.1616932153701782
+act_lang_ABC_200k,ACT-Lang-ABC 200k,go slide the pink block to the left,0.7415024638175964,0.9753735065460205
+act_lang_ABC_200k,ACT-Lang-ABC 200k,store the object in the drawer,3.119875192642212,2.6641998291015625
+act_lang_ABC_200k,ACT-Lang-ABC 200k,rotate right the pink block,2.9032371044158936,2.165393114089966
+act_lang_ABC_200k,ACT-Lang-ABC 200k,remove a block from the stack,1.1511461734771729,2.284902811050415
+act_lang_ABC_200k,ACT-Lang-ABC 200k,go push the red block to the left,1.52347993850708,2.14458966255188
+act_lang_ABC_200k,ACT-Lang-ABC 200k,toggle the button to turn off the led light,2.2911808490753174,1.786219835281372
+act_lang_ABC_200k,ACT-Lang-ABC 200k,move to the drawer and store the object,1.767066240310669,1.9435667991638184
+act_lang_ABC_200k,ACT-Lang-ABC 200k,pick up the blue block in the sliding cabinet,1.5324019193649292,1.8637323379516602
+act_lang_ABC_200k,ACT-Lang-ABC 200k,pick up the red block from the shelf,5.2468647956848145,2.855389356613159
+act_lang_ABC_200k,ACT-Lang-ABC 200k,in the cabinet grasp the pink block,1.6367677450180054,1.7106986045837402
+act_lang_ABC_200k,ACT-Lang-ABC 200k,grasp the red block and turn it left,0.7770693302154541,1.130407452583313
+act_lang_ABC_200k,ACT-Lang-ABC 200k,push the door to the left side,2.516120195388794,1.9388600587844849
+act_lang_ABC_200k,ACT-Lang-ABC 200k,"grasp the blue block on the table, then lift it up",2.050992965698242,2.7341549396514893
+act_lang_ABC_200k,ACT-Lang-ABC 200k,lift the blue block lying on the shelf,3.2294762134552,3.3548312187194824
+act_lang_ABC_200k,ACT-Lang-ABC 200k,sweep the red block to the left,1.4257408380508423,1.1440809965133667
+act_lang_ABC_200k,ACT-Lang-ABC 200k,rotate the pink block 90 degrees to the right,3.0335521697998047,1.847164273262024
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,push the object into the drawer,2.2659554481506348,2.582308292388916
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,turn on the yellow lamp,2.6698477268218994,1.7462226152420044
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,push the switch upwards,2.3825995922088623,1.7432551383972168
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,"grasp the pink block, then lift it up",1.2442721128463745,0.5635850429534912
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,push right the blue block,4.905635356903076,3.412013530731201
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,push right the pink block,0.9821180701255798,1.3263369798660278
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,push the sliding door to the right,5.427858352661133,3.640869140625
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,slide down the switch,1.4581727981567383,1.4369982481002808
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,toggle the light switch to turn on the light bulb,4.238971710205078,4.224392414093018
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,unstack the blocks,2.2646868228912354,1.6138979196548462
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,push left the red block,2.3228583335876465,1.9341403245925903
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,rotate right the red block,3.6313681602478027,1.9015097618103027
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,push the button to turn on the led,2.9588067531585693,1.6202359199523926
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,close the drawer,2.745415687561035,3.2996950149536133
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,"grasp the door handle, then move the door to the right",2.3255836963653564,1.5033725500106812
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,push right the blue block,0.8254066109657288,1.177268147468567
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,pick up the red block lying in the drawer,2.533212900161743,1.1009087562561035
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,push the handle of the drawer,1.4408748149871826,1.2931849956512451
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,turn off the led light,3.1214354038238525,3.003528356552124
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,pick up the blue block from the shelf,0.9890284538269043,1.055508017539978
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,slide left the blue block,0.7408639192581177,1.0395358800888062
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,rotate the pink block 90 degrees to the left,3.689990758895874,3.1985435485839844
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,"grasp the red block, then rotate it left",3.031304121017456,4.407022953033447
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,lift the red block lying in the drawer,2.87998366355896,1.9088448286056519
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,grasp the red block on the table and lift it up,0.8012176156044006,1.3121013641357422
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,in the cabinet grasp the blue block,2.8927605152130127,2.020845651626587
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,"grasp the blue block, then rotate it left",1.1694846153259277,2.278589963912964
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,go slide the pink block to the left,1.099672555923462,1.0333240032196045
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,grasp the blue block from the drawer,3.582700729370117,2.8008124828338623
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,slide the door all the way to the right,4.504691123962402,1.4444210529327393
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,rotate the blue block towards the right,2.2921855449676514,2.957183837890625
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,"grasp the blue block, then rotate it right",2.596754312515259,3.2398176193237305
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,go push the pink block to the left,1.2848536968231201,1.184395432472229
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,slide the red block to the right,2.032775640487671,1.9728257656097412
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,move the door all the way to the left,4.372038841247559,3.768432855606079
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,turn on the green lamp,1.1935608386993408,2.522240400314331
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,pick up the blue block on the table,1.1505200862884521,0.5819548964500427
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,grasp the blue block and turn it left,3.8437695503234863,2.9597535133361816
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,rotate the blue block to the left,1.632548213005066,0.7834730744361877
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,pick up the red block,2.8307242393493652,3.3115952014923096
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,"grasp the drawer handle, then close it",1.7497806549072266,1.5947545766830444
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,pick up the red block lying in the drawer,1.581466794013977,1.9943326711654663
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,"grasp the handle of the drawer, then close it",1.2291196584701538,1.200762391090393
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,turn off the green light,1.478740930557251,0.5110876560211182
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,grasp the red block and turn it left,3.8980214595794678,3.3790204524993896
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,grasp the pink block and turn it right,1.4812449216842651,1.7451759576797485
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,put the grasped object in the sliding cabinet,1.110352873802185,3.107177972793579
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,store the grasped object in the drawer,0.7293274402618408,0.9070622324943542
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,slide down the switch,2.102067708969116,1.7564178705215454
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,push the red block towards the left,1.09792959690094,1.3128970861434937
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,slide left the blue block,0.8576554656028748,0.920562744140625
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,toggle the button to turn off the green light,2.7810206413269043,0.9004067182540894
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,go towards the red block in the drawer and grasp it,2.972925901412964,4.441267013549805
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,move the door all the way to the left and let go,1.4029356241226196,1.1870591640472412
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,push the switch downwards,3.768425941467285,1.9293758869171143
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,grasp the red block on the table and lift it up,2.358137369155884,1.6661357879638672
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,in the cabinet grasp the pink block,4.00227165222168,3.0010948181152344
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,slide left the pink block,1.3643275499343872,1.5035897493362427
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,push the door to the right,1.6546440124511719,1.1647512912750244
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,lift the blue block lying on the shelf,1.4482841491699219,1.8072280883789062
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,grasp the blue block lying in the cabinet,1.4875283241271973,1.479948878288269
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,slide right the blue block,5.934942245483398,1.9590810537338257
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,rotate the red block towards the left,0.9021803736686707,1.209511399269104
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,push the sliding door to the left,2.213059186935425,1.5857199430465698
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,grasp the blue block lying in the drawer,1.0424402952194214,0.9652983546257019
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,rotate the pink block towards the left,3.3710646629333496,3.1155638694763184
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,grasp the red block and turn it left,1.1694103479385376,0.8073749542236328
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,"grasp the red block, then turn it left",0.7352203726768494,0.6023291945457458
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,"move to the drawer, then place the object",3.031872510910034,3.198641538619995
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,lift the red block lying in the cabinet,2.0040857791900635,1.9774965047836304
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,take the blue block and turn it left,2.3717567920684814,1.9785836935043335
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,grasp the blue block and rotate it right,2.940131664276123,3.0593597888946533
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,slide left the red block,1.8350762128829956,1.2252388000488281
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,pick up the blue block from the table,1.7089370489120483,2.0490124225616455
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,pick up the red block in the drawer,4.7053632736206055,2.80795955657959
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,lift the blue block lying on the shelf,1.1384071111679077,0.8833097815513611
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,push the pink block to the left,3.7307324409484863,3.470811367034912
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,"grasp the red block, then turn it left",2.9328012466430664,3.0067760944366455
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,push the pink block towards the left,1.1881508827209473,1.0089552402496338
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,open the drawer,1.9074007272720337,1.6965471506118774
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,open the cabinet drawer,1.0199099779129028,1.5758084058761597
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,move the light switch to turn on the yellow light,1.018183708190918,1.6459860801696777
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,rotate the pink block towards the left,2.9238295555114746,2.9667749404907227
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,rotate the blue block 90 degrees to the right,1.6507846117019653,1.441206455230713
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,"slide the door to the right, then let it go",3.1896986961364746,1.6403628587722778
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,go slide the pink block to the left,1.1459510326385498,1.25614333152771
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,toggle the button to turn off the led,1.4142298698425293,2.784076452255249
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,take the blue block and rotate it left,3.077848434448242,3.272681474685669
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,rotate the red block to the left,4.016660213470459,3.073960065841675
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,move the door to the right side,1.9708188772201538,2.5561511516571045
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,slide the door all the way to the right,1.3192877769470215,1.8909165859222412
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,grasp the blue block on the table and lift it up,4.168272972106934,2.0808792114257812
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,push left the red block,2.5591022968292236,3.4190943241119385
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,take the pink block and rotate it right,1.2440803050994873,0.6073049902915955
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,go close the drawer,1.762491226196289,1.6917678117752075
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,grasp the pink block on the table and lift it up,2.097275972366333,1.1699177026748657
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,"grasp the pink block, then rotate it right",1.0127322673797607,1.2261624336242676
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,slide the pink block towards the left,1.645063042640686,1.3300693035125732
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,take the pink block and turn it right,1.441382646560669,1.825819492340088
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,go to the tower of blocks and take off the top one,1.9152188301086426,2.304898738861084
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,put the block on top of another block,0.9072011113166809,0.6780368685722351
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,toggle the light switch to turn off the yellow light,1.609043836593628,1.223160743713379
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,push the red block towards the left,2.9075183868408203,3.4478235244750977
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,stack the blocks,1.0607986450195312,1.5334643125534058
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,move the light switch to turn on the light bulb,2.5758156776428223,2.1405184268951416
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,"grasp the pink block, then lift it up",2.1299386024475098,2.203082323074341
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,go slide the pink block to the left,1.4393666982650757,1.0178351402282715
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,rotate right the blue block,2.3591926097869873,1.9537650346755981
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,grasp the door handle and slide the door to the left,0.9480414986610413,1.0726975202560425
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,store the object in the drawer,2.0885376930236816,2.245039939880371
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,stack the block on top of another block,1.112727165222168,1.1391860246658325
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,go push the red block to the left,1.4458116292953491,1.2207646369934082
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,go slide the pink block to the left,0.7415024638175964,0.8807214498519897
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,store the object in the drawer,3.119875192642212,2.523921251296997
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,rotate right the pink block,2.9032371044158936,1.3672401905059814
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,remove a block from the stack,1.1511461734771729,2.325422763824463
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,go push the red block to the left,1.52347993850708,2.0473861694335938
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,toggle the button to turn off the led light,2.2911808490753174,2.3439927101135254
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,move to the drawer and store the object,1.767066240310669,2.335071086883545
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,pick up the blue block in the sliding cabinet,1.5324019193649292,2.191836357116699
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,pick up the red block from the shelf,5.2468647956848145,3.6824185848236084
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,in the cabinet grasp the pink block,1.6367677450180054,1.6432693004608154
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,grasp the red block and turn it left,0.7770693302154541,1.3312398195266724
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,push the door to the left side,2.516120195388794,2.597659111022949
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,"grasp the blue block on the table, then lift it up",2.050992965698242,3.1729319095611572
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,lift the blue block lying on the shelf,3.2294762134552,2.6793553829193115
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,sweep the red block to the left,1.4257408380508423,1.1883833408355713
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,rotate the pink block 90 degrees to the right,3.0335521697998047,1.4923317432403564

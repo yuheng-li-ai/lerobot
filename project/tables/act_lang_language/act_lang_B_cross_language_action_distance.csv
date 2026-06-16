@@ -1,0 +1,65 @@
+experiment,task_i,task_j,mean_action_chunk_l1
+act_lang_B,lift the red block,lift the red block,0.0
+act_lang_B,lift the red block,"slide the door to the left, then let it go",0.5962082147598267
+act_lang_B,lift the red block,grasp the blue block from the drawer,0.8336489200592041
+act_lang_B,lift the red block,move the door to the right,0.46442052721977234
+act_lang_B,lift the red block,push down the button to turn on the green light,0.8113804459571838
+act_lang_B,lift the red block,"grasp the drawer handle, then open it",0.9051225781440735
+act_lang_B,lift the red block,turn on the green lamp,0.7819909453392029
+act_lang_B,lift the red block,"grasp the red block on the table, then lift it up",0.08045359700918198
+act_lang_B,"slide the door to the left, then let it go",lift the red block,0.5962082147598267
+act_lang_B,"slide the door to the left, then let it go","slide the door to the left, then let it go",0.0
+act_lang_B,"slide the door to the left, then let it go",grasp the blue block from the drawer,0.9763957858085632
+act_lang_B,"slide the door to the left, then let it go",move the door to the right,0.575200617313385
+act_lang_B,"slide the door to the left, then let it go",push down the button to turn on the green light,0.588060736656189
+act_lang_B,"slide the door to the left, then let it go","grasp the drawer handle, then open it",0.9746267199516296
+act_lang_B,"slide the door to the left, then let it go",turn on the green lamp,0.5643711686134338
+act_lang_B,"slide the door to the left, then let it go","grasp the red block on the table, then lift it up",0.6263431906700134
+act_lang_B,grasp the blue block from the drawer,lift the red block,0.8336489200592041
+act_lang_B,grasp the blue block from the drawer,"slide the door to the left, then let it go",0.9763957858085632
+act_lang_B,grasp the blue block from the drawer,grasp the blue block from the drawer,0.0
+act_lang_B,grasp the blue block from the drawer,move the door to the right,1.0900022983551025
+act_lang_B,grasp the blue block from the drawer,push down the button to turn on the green light,1.009634017944336
+act_lang_B,grasp the blue block from the drawer,"grasp the drawer handle, then open it",0.9040468335151672
+act_lang_B,grasp the blue block from the drawer,turn on the green lamp,0.9865137338638306
+act_lang_B,grasp the blue block from the drawer,"grasp the red block on the table, then lift it up",0.8400460481643677
+act_lang_B,move the door to the right,lift the red block,0.46442052721977234
+act_lang_B,move the door to the right,"slide the door to the left, then let it go",0.575200617313385
+act_lang_B,move the door to the right,grasp the blue block from the drawer,1.0900022983551025
+act_lang_B,move the door to the right,move the door to the right,0.0
+act_lang_B,move the door to the right,push down the button to turn on the green light,0.9144277572631836
+act_lang_B,move the door to the right,"grasp the drawer handle, then open it",1.036716341972351
+act_lang_B,move the door to the right,turn on the green lamp,0.8821799755096436
+act_lang_B,move the door to the right,"grasp the red block on the table, then lift it up",0.4528765082359314
+act_lang_B,push down the button to turn on the green light,lift the red block,0.8113804459571838
+act_lang_B,push down the button to turn on the green light,"slide the door to the left, then let it go",0.588060736656189
+act_lang_B,push down the button to turn on the green light,grasp the blue block from the drawer,1.009634017944336
+act_lang_B,push down the button to turn on the green light,move the door to the right,0.9144277572631836
+act_lang_B,push down the button to turn on the green light,push down the button to turn on the green light,0.0
+act_lang_B,push down the button to turn on the green light,"grasp the drawer handle, then open it",0.8229652047157288
+act_lang_B,push down the button to turn on the green light,turn on the green lamp,0.08350076526403427
+act_lang_B,push down the button to turn on the green light,"grasp the red block on the table, then lift it up",0.8399217128753662
+act_lang_B,"grasp the drawer handle, then open it",lift the red block,0.9051225781440735
+act_lang_B,"grasp the drawer handle, then open it","slide the door to the left, then let it go",0.9746267199516296
+act_lang_B,"grasp the drawer handle, then open it",grasp the blue block from the drawer,0.9040468335151672
+act_lang_B,"grasp the drawer handle, then open it",move the door to the right,1.036716341972351
+act_lang_B,"grasp the drawer handle, then open it",push down the button to turn on the green light,0.8229652047157288
+act_lang_B,"grasp the drawer handle, then open it","grasp the drawer handle, then open it",0.0
+act_lang_B,"grasp the drawer handle, then open it",turn on the green lamp,0.820451557636261
+act_lang_B,"grasp the drawer handle, then open it","grasp the red block on the table, then lift it up",0.8914212584495544
+act_lang_B,turn on the green lamp,lift the red block,0.7819909453392029
+act_lang_B,turn on the green lamp,"slide the door to the left, then let it go",0.5643711686134338
+act_lang_B,turn on the green lamp,grasp the blue block from the drawer,0.9865137338638306
+act_lang_B,turn on the green lamp,move the door to the right,0.8821799755096436
+act_lang_B,turn on the green lamp,push down the button to turn on the green light,0.08350076526403427
+act_lang_B,turn on the green lamp,"grasp the drawer handle, then open it",0.820451557636261
+act_lang_B,turn on the green lamp,turn on the green lamp,0.0
+act_lang_B,turn on the green lamp,"grasp the red block on the table, then lift it up",0.8123182058334351
+act_lang_B,"grasp the red block on the table, then lift it up",lift the red block,0.08045359700918198
+act_lang_B,"grasp the red block on the table, then lift it up","slide the door to the left, then let it go",0.6263431906700134
+act_lang_B,"grasp the red block on the table, then lift it up",grasp the blue block from the drawer,0.8400460481643677
+act_lang_B,"grasp the red block on the table, then lift it up",move the door to the right,0.4528765082359314
+act_lang_B,"grasp the red block on the table, then lift it up",push down the button to turn on the green light,0.8399217128753662
+act_lang_B,"grasp the red block on the table, then lift it up","grasp the drawer handle, then open it",0.8914212584495544
+act_lang_B,"grasp the red block on the table, then lift it up",turn on the green lamp,0.8123182058334351
+act_lang_B,"grasp the red block on the table, then lift it up","grasp the red block on the table, then lift it up",0.0

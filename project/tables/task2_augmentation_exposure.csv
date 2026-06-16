@@ -1,0 +1,4 @@
+experiment,train_frames,per_sample_aug_strength,aug_probability,augmented_frame_exposure_ratio_vs_act_B_aug,notes
+act_B_aug_reference,535403,task1_aug,1.0,1.0,Task 1 reference augmentation magnitude.
+act_ABC_size_matched_aug_full,535456,task1_aug,1.0,1.0000989908536186,Same per-sample augmentation magnitude; frame budget is matched to ACT-B.
+act_ABC_aug_full,1609097,task1_aug,1.0,3.0053940676462405,Same per-sample augmentation magnitude; total exposure rises with the larger ABC dataset.

@@ -1,0 +1,2 @@
+metric,act_B_best,act_B_best_step,act_B_final,act_B_aug_best,act_B_aug_best_step,act_B_aug_final,aug_minus_baseline_best,aug_minus_baseline_final
+validation_action_l1,0.5404146257787943,10000,0.6228719879873097,0.5409390446729958,15000,0.6485505253076553,0.0005244188942015171,0.02567853732034564

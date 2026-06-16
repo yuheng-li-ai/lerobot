@@ -1,0 +1,31 @@
+experiment,display_name,task,num_samples,mean_action_l1,std_action_l1
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,toggle the button to turn off the led light,1,1.2597323656082153,0.0
+act_lang_ABC_200k,ACT-Lang-ABC 200k,toggle the button to turn off the led light,1,1.1349810361862183,0.0
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,move the door all the way to the left,1,1.1218823194503784,0.0
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,"grasp the blue block on the table, then lift it up",1,1.0920640230178833,0.0
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,push the button to turn on the led,1,0.9633435606956482,0.0
+act_lang_ABC_200k,ACT-Lang-ABC 200k,slide the door all the way to the right,2,0.9475360885262489,0.726911686360836
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,push the switch upwards,1,0.9244062304496765,0.0
+act_lang_ABC_200k,ACT-Lang-ABC 200k,rotate the red block to the left,1,0.912383496761322,0.0
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,toggle the button to turn off the green light,1,0.8988544344902039,0.0
+act_lang_ABC_200k,ACT-Lang-ABC 200k,push the switch upwards,1,0.8405976891517639,0.0
+act_lang_ABC_200k,ACT-Lang-ABC 200k,pick up the blue block from the table,1,0.8405079245567322,0.0
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,rotate the pink block 90 degrees to the left,1,0.8289508819580078,0.0
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,pick up the blue block from the table,1,0.8248996734619141,0.0
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,rotate the red block to the left,1,0.8186404705047607,0.0
+act_lang_ABC_200k,ACT-Lang-ABC 200k,rotate the pink block 90 degrees to the left,1,0.8178670406341553,0.0
+act_lang_ABC_200k,ACT-Lang-ABC 200k,pick up the red block from the shelf,1,0.8111081719398499,0.0
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,slide the door all the way to the right,2,0.7988806292414665,0.6188998892903328
+act_lang_ABC_200k,ACT-Lang-ABC 200k,grasp the blue block on the table and lift it up,1,0.794162929058075,0.0
+act_lang_B,ACT-Lang-B,grasp the handle of the drawer and open it,1,0.7935689687728882,0.0
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,rotate the blue block to the left,1,0.7748369574546814,0.0
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,move the light switch to turn on the yellow light,1,0.769568145275116,0.0
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,pick up the red block from the shelf,1,0.7683148384094238,0.0
+act_lang_B,ACT-Lang-B,push down the button to turn on the green light,1,0.7586684226989746,0.0
+act_lang_ABC_200k,ACT-Lang-ABC 200k,move the door all the way to the left,1,0.756025493144989,0.0
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,grasp the blue block on the table and lift it up,1,0.746749222278595,0.0
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,"grasp the blue block, then rotate it right",1,0.7355928421020508,0.0
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,toggle the button to turn off the led,1,0.7327818274497986,0.0
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,turn off the led light,1,0.7309632897377014,0.0
+act_lang_B,ACT-Lang-B,put the object in the slider,1,0.6890366673469543,0.0
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,grasp the pink block on the table and lift it up,1,0.6884172558784485,0.0

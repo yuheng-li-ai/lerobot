@@ -1,0 +1,17 @@
+\begin{table}[t]
+\centering
+\caption{Zero-shot CALVIN D offline action error and ACT chunk diagnostics.}
+\label{tab:zero-shot-d-results}
+\begin{tabular}{llllll}
+\toprule
+experiment & checkpoint\_mode & action\_l1 & action\_l1\_first6 & gripper\_l1 & pred\_mean\_boundary\_jump\_l2\_first6 \\
+\midrule
+act\_B & selected & 0.2346 & 0.1542 & 0.7169 & 0.1993 \\
+act\_B\_aug & selected & 0.2343 & 0.1547 & 0.7123 & 0.2050 \\
+act\_ABC & selected & 0.2154 & 0.1485 & 0.6170 & 0.3126 \\
+act\_ABC\_size\_matched & selected & 0.2217 & 0.1503 & 0.6495 & 0.2288 \\
+act\_ABC\_aug & selected & 0.2134 & 0.1479 & 0.6066 & 0.3252 \\
+act\_ABC\_size\_matched\_aug & selected & 0.2209 & 0.1498 & 0.6473 & 0.2412 \\
+\bottomrule
+\end{tabular}
+\end{table}

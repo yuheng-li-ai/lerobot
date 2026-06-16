@@ -1,0 +1,36 @@
+experiment,task,action_dim,mean_pred_action,mean_abs_pred_action
+act_lang_ABC_size_matched,push the object into the drawer,0,-0.18347547948360443,0.2061065435409546
+act_lang_ABC_size_matched,push the object into the drawer,1,-0.8096576929092407,0.8594204187393188
+act_lang_ABC_size_matched,push the object into the drawer,2,-0.16271963715553284,0.36143043637275696
+act_lang_ABC_size_matched,push the object into the drawer,3,0.00047920027282088995,0.15698395669460297
+act_lang_ABC_size_matched,push the object into the drawer,4,0.14747610688209534,0.27746039628982544
+act_lang_ABC_size_matched,push the object into the drawer,5,0.1385897994041443,0.14871978759765625
+act_lang_ABC_size_matched,push the object into the drawer,6,-0.5012100338935852,0.9355384111404419
+act_lang_ABC_size_matched,turn on the yellow lamp,0,0.30270570516586304,0.3400435745716095
+act_lang_ABC_size_matched,turn on the yellow lamp,1,0.1859222948551178,0.8238723874092102
+act_lang_ABC_size_matched,turn on the yellow lamp,2,0.39717909693717957,0.4234941005706787
+act_lang_ABC_size_matched,turn on the yellow lamp,3,-0.0663209781050682,0.1661098450422287
+act_lang_ABC_size_matched,turn on the yellow lamp,4,-0.5348352789878845,0.7384791374206543
+act_lang_ABC_size_matched,turn on the yellow lamp,5,0.04310578852891922,0.07468912750482559
+act_lang_ABC_size_matched,turn on the yellow lamp,6,-0.21808204054832458,0.9073004722595215
+act_lang_ABC_size_matched,push the switch upwards,0,0.05437818914651871,0.15269386768341064
+act_lang_ABC_size_matched,push the switch upwards,1,0.22658105194568634,0.6319496035575867
+act_lang_ABC_size_matched,push the switch upwards,2,0.2996430993080139,0.32102832198143005
+act_lang_ABC_size_matched,push the switch upwards,3,0.08017311245203018,0.1753634661436081
+act_lang_ABC_size_matched,push the switch upwards,4,-0.4165799617767334,0.5836403369903564
+act_lang_ABC_size_matched,push the switch upwards,5,0.054259538650512695,0.12025383114814758
+act_lang_ABC_size_matched,push the switch upwards,6,-0.009395756758749485,0.9048376679420471
+act_lang_ABC_size_matched,"grasp the pink block, then lift it up",0,-0.04617074131965637,0.7515364289283752
+act_lang_ABC_size_matched,"grasp the pink block, then lift it up",1,-0.24740247428417206,0.2603960335254669
+act_lang_ABC_size_matched,"grasp the pink block, then lift it up",2,0.06700114905834198,0.45376330614089966
+act_lang_ABC_size_matched,"grasp the pink block, then lift it up",3,0.12268252670764923,0.3069072365760803
+act_lang_ABC_size_matched,"grasp the pink block, then lift it up",4,-0.16049736738204956,0.45197808742523193
+act_lang_ABC_size_matched,"grasp the pink block, then lift it up",5,0.03706727549433708,0.37387987971305847
+act_lang_ABC_size_matched,"grasp the pink block, then lift it up",6,-0.1403854340314865,0.9325117468833923
+act_lang_ABC_size_matched,push right the blue block,0,-0.03851442039012909,0.926372766494751
+act_lang_ABC_size_matched,push right the blue block,1,-0.2217089831829071,0.24326492846012115
+act_lang_ABC_size_matched,push right the blue block,2,-0.24808187782764435,0.28550249338150024
+act_lang_ABC_size_matched,push right the blue block,3,-0.12032797187566757,0.5015766024589539
+act_lang_ABC_size_matched,push right the blue block,4,0.10269792377948761,0.13505221903324127
+act_lang_ABC_size_matched,push right the blue block,5,0.13226363062858582,0.2763060927391052
+act_lang_ABC_size_matched,push right the blue block,6,-0.4251394271850586,0.9272580146789551

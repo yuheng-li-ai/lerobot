@@ -1,0 +1,4 @@
+experiment,display_name,run_dir,dataset_group,final_step,final_train_action_l1,final_val_action_l1,best_val_step,best_val_action_l1,final_minus_best_val_action_l1
+act_lang_B,ACT-Lang-B,/EXT_DISK/users/zengzixuan/calvin_runs/act_lang_B/20260606_112848_act_lang_B_full_gpu0,B,100000,0.24576552212238312,0.394311755662784,95000,0.3926512518664822,0.0016605037963017821
+act_lang_ABC_200k,ACT-Lang-ABC 200k,/EXT_DISK/users/zengzixuan/calvin_runs/act_lang_ABC_continue_200k/20260607_083058_act_lang_ABC_full_continue_200k_gpu1,ABC,200000,0.2706204950809479,0.3948035812936723,195000,0.3904843954369426,0.004319185856729746
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,/EXT_DISK/users/zengzixuan/calvin_runs/act_lang_ABC_size_matched/20260606_164015_act_lang_ABC_size_matched_full_gpu2,ABC,100000,0.2731674015522003,0.4759296546690166,75000,0.47178137535229325,0.004148279316723347

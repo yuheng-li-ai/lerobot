@@ -1,0 +1,3 @@
+experiment,selection,step,val_action_l1,checkpoint,notes
+act_B,best_val,10000,0.5404146257787943,/EXT_DISK/users/zengzixuan/calvin_runs/act_B/20260604_101320_act_B_full_gpu0/checkpoints/step_00010000,candidate early-stopped checkpoint
+act_B,final,100000,0.6228719879873097,/EXT_DISK/users/zengzixuan/calvin_runs/act_B/20260604_101320_act_B_full_gpu0/checkpoint,full 100k-step endpoint

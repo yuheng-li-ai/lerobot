@@ -1,0 +1,30 @@
+category,baseline_artifact,augmentation_artifact,status,notes
+figure,project/figures/act_B_baseline/env_B_action_delta_heatmap.png,project/figures/act_B_aug/act_B_aug_action_delta_heatmap.png,copied_data_invariant,same B action labels
+figure,project/figures/act_B_baseline/env_B_action_distribution.png,project/figures/act_B_aug/act_B_aug_action_distribution.png,copied_data_invariant,same B action labels; augmentation changes images only
+figure,project/figures/act_B_baseline/env_B_action_smoothness.png,project/figures/act_B_aug/act_B_aug_action_smoothness.png,copied_data_invariant,same B action labels; augmentation changes images only
+figure,project/figures/act_B_baseline/env_B_action_violin.png,project/figures/act_B_aug/act_B_aug_action_violin.png,copied_data_invariant,same B action labels
+figure,project/figures/act_B_baseline/env_B_brightness_contrast_hist.png,project/figures/act_B_aug/act_B_aug_brightness_contrast_hist.png,generated_from_augmented_images,raw-vs-augmented brightness/contrast
+figure,project/figures/act_B_baseline/env_B_chunk_baseline.png,project/figures/act_B_aug/act_B_aug_chunk_baseline.png,copied_data_invariant,same ground-truth action chunks
+figure,project/figures/act_B_baseline/env_B_gripper_diagnostics.png,project/figures/act_B_aug/act_B_aug_gripper_diagnostics.png,copied_data_invariant,same binary gripper labels
+figure,project/figures/act_B_baseline/env_B_gripper_timeline.png,project/figures/act_B_aug/act_B_aug_gripper_timeline.png,copied_data_invariant,same binary gripper labels
+figure,project/figures/act_B_baseline/loss_curve_act_B.png,project/figures/act_B_aug/act_B_aug_loss_curve.png,generated_from_aug_metrics,uses ACT-B-aug full-training metrics
+figure,project/figures/act_B_baseline/env_B_representative_trajectory_strip.png,project/figures/act_B_aug/act_B_aug_representative_trajectory_strip.png,copied_data_invariant,same B trajectory labels
+figure,project/figures/act_B_baseline/env_B_samples.png,project/figures/act_B_aug/act_B_aug_samples.png,generated_from_augmented_images,raw-vs-augmented B samples
+figure,project/figures/act_B_baseline/env_B_task_frequency.png,project/figures/act_B_aug/act_B_aug_task_frequency.png,copied_data_invariant,same B task distribution
+figure,project/figures/act_B_baseline/train_val_gap_act_B.png,project/figures/act_B_aug/act_B_aug_train_val_gap.png,generated_from_aug_metrics,uses ACT-B-aug full-training metrics
+figure,project/figures/act_B_baseline/env_B_visual_color_profile.png,project/figures/act_B_aug/act_B_aug_visual_color_profile.png,generated_from_augmented_images,raw-vs-augmented RGB means
+table,project/tables/env_B_action_delta_heatmap.csv,project/tables/act_B_aug_action_delta_heatmap.csv,copied_data_invariant,same B action labels
+table,project/tables/env_B_action_smoothness.csv,project/tables/act_B_aug_action_smoothness.csv,copied_data_invariant,same B action labels
+table,project/tables/env_B_action_stats.csv,project/tables/act_B_aug_action_stats.csv,copied_data_invariant,same B action labels
+table,project/tables/env_B_action_summary.csv,project/tables/act_B_aug_action_summary.csv,copied_data_invariant,same B action labels
+table,project/tables/act_B_checkpoint_selection.csv,project/tables/act_B_aug_checkpoint_selection.csv,generated_from_aug_metrics,best-val and final ACT-B-aug checkpoints
+table,project/tables/env_B_chunk_baseline.csv,project/tables/act_B_aug_chunk_baseline.csv,copied_data_invariant,same ground-truth action chunks
+table,project/tables/env_B_chunk_baseline_summary.csv,project/tables/act_B_aug_chunk_baseline_summary.csv,copied_data_invariant,same ground-truth action chunks
+table,project/tables/env_B_gripper_runs.csv,project/tables/act_B_aug_gripper_runs.csv,copied_data_invariant,same binary gripper labels
+table,project/tables/env_B_gripper_summary.csv,project/tables/act_B_aug_gripper_summary.csv,copied_data_invariant,same binary gripper labels
+table,project/tables/act_B_overfitting_summary.csv,project/tables/act_B_aug_overfitting_summary.csv,generated_from_aug_metrics,uses ACT-B-aug full-training metrics
+table,project/tables/env_B_representative_trajectory.csv,project/tables/act_B_aug_representative_trajectory.csv,copied_data_invariant,same B trajectory labels
+table,project/tables/env_B_task_counts.csv,project/tables/act_B_aug_task_counts.csv,copied_data_invariant,same B task distribution
+table,project/tables/act_B_train_l1_smoothed.csv,project/tables/act_B_aug_train_l1_smoothed.csv,generated_from_aug_metrics,1000-step train L1 mean
+table,project/tables/act_B_train_val_gap.csv,project/tables/act_B_aug_train_val_gap.csv,generated_from_aug_metrics,validation gap vs smoothed train L1
+table,project/tables/env_B_visual_stats.csv,project/tables/act_B_aug_visual_stats.csv,generated_from_augmented_images,raw-vs-augmented visual statistics

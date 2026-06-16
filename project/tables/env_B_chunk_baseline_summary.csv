@@ -1,0 +1,2 @@
+environment,chunk_size,num_chunks,mean_within_chunk_delta_l2_first6,mean_first_last_delta_l2_first6,mean_boundary_jump_l2_first6,q90_boundary_jump_l2_first6,q99_boundary_jump_l2_first6
+B,100,6022,0.1784399621225992,0.7254183965880606,0.1791689427733473,0.32449569496274,0.607276223517989

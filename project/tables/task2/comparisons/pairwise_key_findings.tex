@@ -1,0 +1,11 @@
+\begin{tabular}{llllrrrrrrrl}
+\toprule
+comparison & left\_experiment & right\_experiment & validation\_comparability & best\_val\_action\_l1\_delta\_left\_minus\_right & selected\_checkpoint\_val\_delta\_left\_minus\_right & overfit\_gap\_delta\_left\_minus\_right & train\_frame\_ratio\_left\_over\_right & mean\_step\_delta\_l2\_delta\_left\_minus\_right & chunk\_q90\_boundary\_jump\_delta\_left\_minus\_right & train\_input\_static\_brightness\_delta\_left\_minus\_right & interpretation \\
+\midrule
+ABC\_vs\_ABC\_aug & act\_ABC & act\_ABC\_aug & same\_ABC\_validation\_split & -0.0007 & -0.0023 & -0.0054 & 1.0000 & 0.0000 & 0.0000 & 0.0026 & act\_ABC has lower best validation Action L1 \\
+ABC\_vs\_ABC\_size\_matched & act\_ABC & act\_ABC\_size\_matched & same\_ABC\_validation\_split & -0.0101 & -0.0171 & -0.0254 & 3.0051 & 0.0003 & 0.0047 & -0.0008 & act\_ABC has lower best validation Action L1 \\
+ABC\_vs\_B & act\_ABC & act\_B & different\_validation\_split & 0.0148 & 0.0161 & -0.0566 & 3.0054 & -0.0492 & -0.0142 & -0.1418 & different validation split; use loss deltas as diagnostics only \\
+ABC\_size\_matched\_vs\_B & act\_ABC\_size\_matched & act\_B & different\_validation\_split & 0.0249 & 0.0331 & -0.0313 & 1.0001 & -0.0495 & -0.0189 & -0.1409 & different validation split; use loss deltas as diagnostics only \\
+ABC\_size\_matched\_aug\_vs\_B\_aug & act\_ABC\_size\_matched\_aug & act\_B\_aug & different\_validation\_split & 0.0259 & 0.0236 & -0.0441 & 1.0001 & -0.0495 & -0.0189 & -0.1365 & different validation split; use loss deltas as diagnostics only \\
+\bottomrule
+\end{tabular}

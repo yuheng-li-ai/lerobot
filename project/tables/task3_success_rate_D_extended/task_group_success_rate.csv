@@ -1,0 +1,25 @@
+model,display_name,task_group,success,total,success_rate
+act_lang_B_100k,B 100k,drawer,146,230,0.6347826086956522
+act_lang_B_100k,B 100k,lift,60,228,0.2631578947368421
+act_lang_B_100k,B 100k,light,0,273,0.0
+act_lang_B_100k,B 100k,place,19,27,0.7037037037037037
+act_lang_B_100k,B 100k,push,77,204,0.37745098039215685
+act_lang_B_100k,B 100k,rotate,33,175,0.18857142857142858
+act_lang_B_100k,B 100k,slider,23,203,0.11330049261083744
+act_lang_B_100k,B 100k,stack,3,21,0.14285714285714285
+act_lang_ABC_size_matched_100k,ABC-SM 100k,drawer,339,366,0.9262295081967213
+act_lang_ABC_size_matched_100k,ABC-SM 100k,lift,156,469,0.3326226012793177
+act_lang_ABC_size_matched_100k,ABC-SM 100k,light,198,391,0.5063938618925832
+act_lang_ABC_size_matched_100k,ABC-SM 100k,place,50,74,0.6756756756756757
+act_lang_ABC_size_matched_100k,ABC-SM 100k,push,159,302,0.5264900662251656
+act_lang_ABC_size_matched_100k,ABC-SM 100k,rotate,84,274,0.30656934306569344
+act_lang_ABC_size_matched_100k,ABC-SM 100k,slider,249,289,0.8615916955017301
+act_lang_ABC_size_matched_100k,ABC-SM 100k,stack,13,41,0.3170731707317073
+act_lang_ABC_200k,ABC 200k,drawer,415,446,0.9304932735426009
+act_lang_ABC_200k,ABC 200k,lift,221,537,0.41154562383612664
+act_lang_ABC_200k,ABC 200k,light,312,405,0.7703703703703704
+act_lang_ABC_200k,ABC 200k,place,87,101,0.8613861386138614
+act_lang_ABC_200k,ABC 200k,push,183,349,0.5243553008595988
+act_lang_ABC_200k,ABC 200k,rotate,121,317,0.38170347003154576
+act_lang_ABC_200k,ABC 200k,slider,279,335,0.8328358208955224
+act_lang_ABC_200k,ABC 200k,stack,9,51,0.17647058823529413

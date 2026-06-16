@@ -1,0 +1,17 @@
+\begin{table}[t]
+\centering
+\caption{ACT chunking robustness on unseen D under visual distribution shift.}
+\label{tab:act-chunk-robustness-shift}
+\begin{tabular}{llllll}
+\toprule
+experiment & train\_visual\_env & action\_l1\_D & smoothness\_ratio\_pred\_over\_gt & boundary\_amplification\_pred\_over\_gt & chunk\_horizon\_degradation\_last10\_minus\_first10 \\
+\midrule
+act\_B & B & 0.235 & 0.093 & 1.163 & 0.085 \\
+act\_B\_aug & B & 0.234 & 0.094 & 1.197 & 0.083 \\
+act\_ABC & ABC & 0.215 & 0.122 & 1.825 & 0.115 \\
+act\_ABC\_size\_matched & ABC & 0.222 & 0.121 & 1.336 & 0.107 \\
+act\_ABC\_aug & ABC & 0.213 & 0.123 & 1.898 & 0.113 \\
+act\_ABC\_size\_matched\_aug & ABC & 0.221 & 0.117 & 1.408 & 0.108 \\
+\bottomrule
+\end{tabular}
+\end{table}

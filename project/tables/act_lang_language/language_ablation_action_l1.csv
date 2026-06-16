@@ -1,0 +1,1153 @@
+experiment,display_name,mode,action_l1
+act_lang_B,ACT-Lang-B,correct,0.5219524502754211
+act_lang_B,ACT-Lang-B,correct,0.12448695302009583
+act_lang_B,ACT-Lang-B,correct,0.2507237493991852
+act_lang_B,ACT-Lang-B,correct,0.30035749077796936
+act_lang_B,ACT-Lang-B,correct,0.7586684226989746
+act_lang_B,ACT-Lang-B,correct,0.2493404597043991
+act_lang_B,ACT-Lang-B,correct,0.6344830989837646
+act_lang_B,ACT-Lang-B,correct,0.3087296783924103
+act_lang_B,ACT-Lang-B,zero_language,0.5818330645561218
+act_lang_B,ACT-Lang-B,zero_language,0.21941234171390533
+act_lang_B,ACT-Lang-B,zero_language,0.4765629470348358
+act_lang_B,ACT-Lang-B,zero_language,0.8526097536087036
+act_lang_B,ACT-Lang-B,zero_language,0.7238188982009888
+act_lang_B,ACT-Lang-B,zero_language,0.4438723027706146
+act_lang_B,ACT-Lang-B,zero_language,0.8509572148323059
+act_lang_B,ACT-Lang-B,zero_language,0.3475734293460846
+act_lang_B,ACT-Lang-B,wrong_language,0.551139771938324
+act_lang_B,ACT-Lang-B,wrong_language,0.4963436424732208
+act_lang_B,ACT-Lang-B,wrong_language,1.6687886714935303
+act_lang_B,ACT-Lang-B,wrong_language,1.0362721681594849
+act_lang_B,ACT-Lang-B,wrong_language,0.7625401020050049
+act_lang_B,ACT-Lang-B,wrong_language,0.31750187277793884
+act_lang_B,ACT-Lang-B,wrong_language,0.8589894771575928
+act_lang_B,ACT-Lang-B,wrong_language,0.6504873633384705
+act_lang_B,ACT-Lang-B,correct,0.4687463641166687
+act_lang_B,ACT-Lang-B,correct,0.40062031149864197
+act_lang_B,ACT-Lang-B,correct,0.3052360713481903
+act_lang_B,ACT-Lang-B,correct,0.37369731068611145
+act_lang_B,ACT-Lang-B,correct,0.4597705900669098
+act_lang_B,ACT-Lang-B,correct,0.2266809046268463
+act_lang_B,ACT-Lang-B,correct,0.3556514382362366
+act_lang_B,ACT-Lang-B,correct,0.20190498232841492
+act_lang_B,ACT-Lang-B,zero_language,0.6673160195350647
+act_lang_B,ACT-Lang-B,zero_language,0.4628409147262573
+act_lang_B,ACT-Lang-B,zero_language,0.37040796875953674
+act_lang_B,ACT-Lang-B,zero_language,0.776361882686615
+act_lang_B,ACT-Lang-B,zero_language,0.5876356363296509
+act_lang_B,ACT-Lang-B,zero_language,0.584080159664154
+act_lang_B,ACT-Lang-B,zero_language,0.7492313385009766
+act_lang_B,ACT-Lang-B,zero_language,0.44965609908103943
+act_lang_B,ACT-Lang-B,wrong_language,0.7386458516120911
+act_lang_B,ACT-Lang-B,wrong_language,0.679460883140564
+act_lang_B,ACT-Lang-B,wrong_language,0.2070077508687973
+act_lang_B,ACT-Lang-B,wrong_language,0.9385974407196045
+act_lang_B,ACT-Lang-B,wrong_language,0.662816047668457
+act_lang_B,ACT-Lang-B,wrong_language,0.5433666110038757
+act_lang_B,ACT-Lang-B,wrong_language,0.9070119261741638
+act_lang_B,ACT-Lang-B,wrong_language,1.0962740182876587
+act_lang_B,ACT-Lang-B,correct,0.07322672009468079
+act_lang_B,ACT-Lang-B,correct,0.5381909608840942
+act_lang_B,ACT-Lang-B,correct,0.2559245228767395
+act_lang_B,ACT-Lang-B,correct,0.2829515039920807
+act_lang_B,ACT-Lang-B,correct,0.4777831435203552
+act_lang_B,ACT-Lang-B,correct,0.2790594696998596
+act_lang_B,ACT-Lang-B,correct,0.6890366673469543
+act_lang_B,ACT-Lang-B,correct,0.16948482394218445
+act_lang_B,ACT-Lang-B,zero_language,0.10173796117305756
+act_lang_B,ACT-Lang-B,zero_language,1.1041542291641235
+act_lang_B,ACT-Lang-B,zero_language,0.5233331918716431
+act_lang_B,ACT-Lang-B,zero_language,1.545924186706543
+act_lang_B,ACT-Lang-B,zero_language,1.4182765483856201
+act_lang_B,ACT-Lang-B,zero_language,0.3795955181121826
+act_lang_B,ACT-Lang-B,zero_language,0.791374146938324
+act_lang_B,ACT-Lang-B,zero_language,1.3175935745239258
+act_lang_B,ACT-Lang-B,wrong_language,0.18179796636104584
+act_lang_B,ACT-Lang-B,wrong_language,1.2180914878845215
+act_lang_B,ACT-Lang-B,wrong_language,0.9756370186805725
+act_lang_B,ACT-Lang-B,wrong_language,1.4424641132354736
+act_lang_B,ACT-Lang-B,wrong_language,0.4536474645137787
+act_lang_B,ACT-Lang-B,wrong_language,0.6488842368125916
+act_lang_B,ACT-Lang-B,wrong_language,0.7551531195640564
+act_lang_B,ACT-Lang-B,wrong_language,1.1499660015106201
+act_lang_B,ACT-Lang-B,correct,0.30590254068374634
+act_lang_B,ACT-Lang-B,correct,0.2612784206867218
+act_lang_B,ACT-Lang-B,correct,0.2943141758441925
+act_lang_B,ACT-Lang-B,correct,0.11707495152950287
+act_lang_B,ACT-Lang-B,correct,0.6189576387405396
+act_lang_B,ACT-Lang-B,correct,0.2516832947731018
+act_lang_B,ACT-Lang-B,correct,0.19209985435009003
+act_lang_B,ACT-Lang-B,correct,0.4980201721191406
+act_lang_B,ACT-Lang-B,zero_language,1.3075952529907227
+act_lang_B,ACT-Lang-B,zero_language,0.4639161229133606
+act_lang_B,ACT-Lang-B,zero_language,0.3971257507801056
+act_lang_B,ACT-Lang-B,zero_language,0.16614855825901031
+act_lang_B,ACT-Lang-B,zero_language,1.0080467462539673
+act_lang_B,ACT-Lang-B,zero_language,0.3812658488750458
+act_lang_B,ACT-Lang-B,zero_language,0.26625561714172363
+act_lang_B,ACT-Lang-B,zero_language,0.5590768456459045
+act_lang_B,ACT-Lang-B,wrong_language,1.3385173082351685
+act_lang_B,ACT-Lang-B,wrong_language,1.011488676071167
+act_lang_B,ACT-Lang-B,wrong_language,0.264511376619339
+act_lang_B,ACT-Lang-B,wrong_language,0.21454140543937683
+act_lang_B,ACT-Lang-B,wrong_language,0.950780987739563
+act_lang_B,ACT-Lang-B,wrong_language,1.0209773778915405
+act_lang_B,ACT-Lang-B,wrong_language,0.20240482687950134
+act_lang_B,ACT-Lang-B,wrong_language,0.5158476233482361
+act_lang_B,ACT-Lang-B,correct,0.24116675555706024
+act_lang_B,ACT-Lang-B,correct,0.4890139698982239
+act_lang_B,ACT-Lang-B,correct,0.3729518949985504
+act_lang_B,ACT-Lang-B,correct,0.3845526874065399
+act_lang_B,ACT-Lang-B,correct,0.28902044892311096
+act_lang_B,ACT-Lang-B,correct,0.26560837030410767
+act_lang_B,ACT-Lang-B,correct,0.2842845618724823
+act_lang_B,ACT-Lang-B,correct,0.21634595096111298
+act_lang_B,ACT-Lang-B,zero_language,0.49489685893058777
+act_lang_B,ACT-Lang-B,zero_language,0.8853685259819031
+act_lang_B,ACT-Lang-B,zero_language,0.4570373296737671
+act_lang_B,ACT-Lang-B,zero_language,0.9212138652801514
+act_lang_B,ACT-Lang-B,zero_language,0.6849504709243774
+act_lang_B,ACT-Lang-B,zero_language,0.46065351366996765
+act_lang_B,ACT-Lang-B,zero_language,0.4988029897212982
+act_lang_B,ACT-Lang-B,zero_language,0.3165232837200165
+act_lang_B,ACT-Lang-B,wrong_language,0.5441563725471497
+act_lang_B,ACT-Lang-B,wrong_language,1.1348447799682617
+act_lang_B,ACT-Lang-B,wrong_language,0.9849017262458801
+act_lang_B,ACT-Lang-B,wrong_language,0.951580822467804
+act_lang_B,ACT-Lang-B,wrong_language,0.5352537631988525
+act_lang_B,ACT-Lang-B,wrong_language,0.72185879945755
+act_lang_B,ACT-Lang-B,wrong_language,0.38603702187538147
+act_lang_B,ACT-Lang-B,wrong_language,1.2071527242660522
+act_lang_B,ACT-Lang-B,correct,0.4425434172153473
+act_lang_B,ACT-Lang-B,correct,0.3740583658218384
+act_lang_B,ACT-Lang-B,correct,0.2589240074157715
+act_lang_B,ACT-Lang-B,correct,0.19863136112689972
+act_lang_B,ACT-Lang-B,correct,0.3727565109729767
+act_lang_B,ACT-Lang-B,correct,0.43559300899505615
+act_lang_B,ACT-Lang-B,correct,0.22912979125976562
+act_lang_B,ACT-Lang-B,correct,0.26905307173728943
+act_lang_B,ACT-Lang-B,zero_language,0.4020230174064636
+act_lang_B,ACT-Lang-B,zero_language,0.6739642024040222
+act_lang_B,ACT-Lang-B,zero_language,0.3586024343967438
+act_lang_B,ACT-Lang-B,zero_language,0.2591196894645691
+act_lang_B,ACT-Lang-B,zero_language,0.40310439467430115
+act_lang_B,ACT-Lang-B,zero_language,0.5211114883422852
+act_lang_B,ACT-Lang-B,zero_language,0.2985115349292755
+act_lang_B,ACT-Lang-B,zero_language,0.6750580668449402
+act_lang_B,ACT-Lang-B,wrong_language,0.9695590734481812
+act_lang_B,ACT-Lang-B,wrong_language,0.480593740940094
+act_lang_B,ACT-Lang-B,wrong_language,0.24721603095531464
+act_lang_B,ACT-Lang-B,wrong_language,0.24107034504413605
+act_lang_B,ACT-Lang-B,wrong_language,0.4472351670265198
+act_lang_B,ACT-Lang-B,wrong_language,0.6879103183746338
+act_lang_B,ACT-Lang-B,wrong_language,0.27683234214782715
+act_lang_B,ACT-Lang-B,wrong_language,0.701153039932251
+act_lang_B,ACT-Lang-B,correct,0.24743099510669708
+act_lang_B,ACT-Lang-B,correct,0.3727828860282898
+act_lang_B,ACT-Lang-B,correct,0.5414301156997681
+act_lang_B,ACT-Lang-B,correct,0.3583819568157196
+act_lang_B,ACT-Lang-B,correct,0.5302817821502686
+act_lang_B,ACT-Lang-B,correct,0.2416868507862091
+act_lang_B,ACT-Lang-B,correct,0.19744963943958282
+act_lang_B,ACT-Lang-B,correct,0.3377313017845154
+act_lang_B,ACT-Lang-B,zero_language,0.8288657069206238
+act_lang_B,ACT-Lang-B,zero_language,0.3288594186306
+act_lang_B,ACT-Lang-B,zero_language,0.692952036857605
+act_lang_B,ACT-Lang-B,zero_language,0.4264068603515625
+act_lang_B,ACT-Lang-B,zero_language,0.5674769878387451
+act_lang_B,ACT-Lang-B,zero_language,0.4334057867527008
+act_lang_B,ACT-Lang-B,zero_language,1.4086657762527466
+act_lang_B,ACT-Lang-B,zero_language,0.6277187466621399
+act_lang_B,ACT-Lang-B,wrong_language,0.9252176284790039
+act_lang_B,ACT-Lang-B,wrong_language,0.764835000038147
+act_lang_B,ACT-Lang-B,wrong_language,0.7348189949989319
+act_lang_B,ACT-Lang-B,wrong_language,1.3605127334594727
+act_lang_B,ACT-Lang-B,wrong_language,0.77243572473526
+act_lang_B,ACT-Lang-B,wrong_language,0.6106722950935364
+act_lang_B,ACT-Lang-B,wrong_language,1.556436538696289
+act_lang_B,ACT-Lang-B,wrong_language,1.0182945728302002
+act_lang_B,ACT-Lang-B,correct,0.4518551230430603
+act_lang_B,ACT-Lang-B,correct,0.3385424017906189
+act_lang_B,ACT-Lang-B,correct,0.3966418504714966
+act_lang_B,ACT-Lang-B,correct,0.2167416512966156
+act_lang_B,ACT-Lang-B,correct,0.5934826731681824
+act_lang_B,ACT-Lang-B,correct,0.08519640564918518
+act_lang_B,ACT-Lang-B,correct,0.22907164692878723
+act_lang_B,ACT-Lang-B,correct,0.7935689687728882
+act_lang_B,ACT-Lang-B,zero_language,0.8350276350975037
+act_lang_B,ACT-Lang-B,zero_language,0.3904779255390167
+act_lang_B,ACT-Lang-B,zero_language,0.5161775946617126
+act_lang_B,ACT-Lang-B,zero_language,0.3884601891040802
+act_lang_B,ACT-Lang-B,zero_language,0.897241473197937
+act_lang_B,ACT-Lang-B,zero_language,0.07873757183551788
+act_lang_B,ACT-Lang-B,zero_language,0.3798178434371948
+act_lang_B,ACT-Lang-B,zero_language,0.9143589735031128
+act_lang_B,ACT-Lang-B,wrong_language,0.6604605317115784
+act_lang_B,ACT-Lang-B,wrong_language,0.8476579189300537
+act_lang_B,ACT-Lang-B,wrong_language,0.41015374660491943
+act_lang_B,ACT-Lang-B,wrong_language,0.9145655035972595
+act_lang_B,ACT-Lang-B,wrong_language,0.6429468989372253
+act_lang_B,ACT-Lang-B,wrong_language,0.38965922594070435
+act_lang_B,ACT-Lang-B,wrong_language,0.636145830154419
+act_lang_B,ACT-Lang-B,wrong_language,0.8505244851112366
+act_lang_B,ACT-Lang-B,correct,0.17425096035003662
+act_lang_B,ACT-Lang-B,correct,0.09026816487312317
+act_lang_B,ACT-Lang-B,correct,0.27996134757995605
+act_lang_B,ACT-Lang-B,correct,0.17293418943881989
+act_lang_B,ACT-Lang-B,correct,0.2426476925611496
+act_lang_B,ACT-Lang-B,correct,0.2924078404903412
+act_lang_B,ACT-Lang-B,correct,0.19097673892974854
+act_lang_B,ACT-Lang-B,correct,0.6589400768280029
+act_lang_B,ACT-Lang-B,zero_language,0.410641610622406
+act_lang_B,ACT-Lang-B,zero_language,0.22455936670303345
+act_lang_B,ACT-Lang-B,zero_language,0.42069318890571594
+act_lang_B,ACT-Lang-B,zero_language,0.312391072511673
+act_lang_B,ACT-Lang-B,zero_language,0.34972646832466125
+act_lang_B,ACT-Lang-B,zero_language,0.4214242398738861
+act_lang_B,ACT-Lang-B,zero_language,0.29473087191581726
+act_lang_B,ACT-Lang-B,zero_language,0.7917702198028564
+act_lang_B,ACT-Lang-B,wrong_language,0.5593158006668091
+act_lang_B,ACT-Lang-B,wrong_language,0.7439362406730652
+act_lang_B,ACT-Lang-B,wrong_language,0.4648052155971527
+act_lang_B,ACT-Lang-B,wrong_language,0.6166714429855347
+act_lang_B,ACT-Lang-B,wrong_language,0.28415924310684204
+act_lang_B,ACT-Lang-B,wrong_language,0.6266595125198364
+act_lang_B,ACT-Lang-B,wrong_language,0.2863634526729584
+act_lang_B,ACT-Lang-B,wrong_language,1.2966725826263428
+act_lang_B,ACT-Lang-B,correct,0.3723090887069702
+act_lang_B,ACT-Lang-B,correct,0.2492045760154724
+act_lang_B,ACT-Lang-B,correct,0.5882608890533447
+act_lang_B,ACT-Lang-B,correct,0.210717111825943
+act_lang_B,ACT-Lang-B,correct,0.5101302862167358
+act_lang_B,ACT-Lang-B,correct,0.37733376026153564
+act_lang_B,ACT-Lang-B,correct,0.2522783577442169
+act_lang_B,ACT-Lang-B,correct,0.7299328446388245
+act_lang_B,ACT-Lang-B,zero_language,0.923040509223938
+act_lang_B,ACT-Lang-B,zero_language,0.38383948802948
+act_lang_B,ACT-Lang-B,zero_language,0.8402549624443054
+act_lang_B,ACT-Lang-B,zero_language,0.32424408197402954
+act_lang_B,ACT-Lang-B,zero_language,0.5184357762336731
+act_lang_B,ACT-Lang-B,zero_language,0.7595899105072021
+act_lang_B,ACT-Lang-B,zero_language,0.6714636087417603
+act_lang_B,ACT-Lang-B,zero_language,0.6532877087593079
+act_lang_B,ACT-Lang-B,wrong_language,0.9319183826446533
+act_lang_B,ACT-Lang-B,wrong_language,1.0751615762710571
+act_lang_B,ACT-Lang-B,wrong_language,1.252573847770691
+act_lang_B,ACT-Lang-B,wrong_language,0.3036464750766754
+act_lang_B,ACT-Lang-B,wrong_language,0.6799561381340027
+act_lang_B,ACT-Lang-B,wrong_language,0.9065618515014648
+act_lang_B,ACT-Lang-B,wrong_language,0.6937233805656433
+act_lang_B,ACT-Lang-B,wrong_language,0.7736259698867798
+act_lang_B,ACT-Lang-B,correct,0.4984731674194336
+act_lang_B,ACT-Lang-B,correct,0.31848809123039246
+act_lang_B,ACT-Lang-B,correct,0.22185087203979492
+act_lang_B,ACT-Lang-B,correct,0.23524419963359833
+act_lang_B,ACT-Lang-B,correct,0.3567359149456024
+act_lang_B,ACT-Lang-B,correct,0.38409537076950073
+act_lang_B,ACT-Lang-B,correct,0.5697783827781677
+act_lang_B,ACT-Lang-B,correct,0.3646835386753082
+act_lang_B,ACT-Lang-B,zero_language,0.5135200023651123
+act_lang_B,ACT-Lang-B,zero_language,0.4560920298099518
+act_lang_B,ACT-Lang-B,zero_language,1.0114187002182007
+act_lang_B,ACT-Lang-B,zero_language,0.8325578570365906
+act_lang_B,ACT-Lang-B,zero_language,0.9048351645469666
+act_lang_B,ACT-Lang-B,zero_language,0.6668413877487183
+act_lang_B,ACT-Lang-B,zero_language,0.6512796878814697
+act_lang_B,ACT-Lang-B,zero_language,1.1961679458618164
+act_lang_B,ACT-Lang-B,wrong_language,1.1250938177108765
+act_lang_B,ACT-Lang-B,wrong_language,0.3245864510536194
+act_lang_B,ACT-Lang-B,wrong_language,1.1419230699539185
+act_lang_B,ACT-Lang-B,wrong_language,1.2061738967895508
+act_lang_B,ACT-Lang-B,wrong_language,0.8425824046134949
+act_lang_B,ACT-Lang-B,wrong_language,0.5106459259986877
+act_lang_B,ACT-Lang-B,wrong_language,1.243518590927124
+act_lang_B,ACT-Lang-B,wrong_language,1.1527070999145508
+act_lang_B,ACT-Lang-B,correct,0.14801350235939026
+act_lang_B,ACT-Lang-B,correct,0.3926751911640167
+act_lang_B,ACT-Lang-B,correct,0.2038607895374298
+act_lang_B,ACT-Lang-B,correct,0.30188608169555664
+act_lang_B,ACT-Lang-B,correct,0.10197482258081436
+act_lang_B,ACT-Lang-B,correct,0.18486696481704712
+act_lang_B,ACT-Lang-B,correct,0.2601490318775177
+act_lang_B,ACT-Lang-B,correct,0.17415666580200195
+act_lang_B,ACT-Lang-B,zero_language,0.1741999238729477
+act_lang_B,ACT-Lang-B,zero_language,0.3830791413784027
+act_lang_B,ACT-Lang-B,zero_language,0.33707407116889954
+act_lang_B,ACT-Lang-B,zero_language,0.4708336889743805
+act_lang_B,ACT-Lang-B,zero_language,0.2064250260591507
+act_lang_B,ACT-Lang-B,zero_language,0.30752816796302795
+act_lang_B,ACT-Lang-B,zero_language,0.5234769582748413
+act_lang_B,ACT-Lang-B,zero_language,0.2759488821029663
+act_lang_B,ACT-Lang-B,wrong_language,0.22469256818294525
+act_lang_B,ACT-Lang-B,wrong_language,0.38759613037109375
+act_lang_B,ACT-Lang-B,wrong_language,1.018270492553711
+act_lang_B,ACT-Lang-B,wrong_language,0.48279502987861633
+act_lang_B,ACT-Lang-B,wrong_language,0.6908226609230042
+act_lang_B,ACT-Lang-B,wrong_language,0.19111213088035583
+act_lang_B,ACT-Lang-B,wrong_language,0.2601490318775177
+act_lang_B,ACT-Lang-B,wrong_language,0.3377993404865265
+act_lang_B,ACT-Lang-B,correct,0.28877031803131104
+act_lang_B,ACT-Lang-B,correct,0.32051557302474976
+act_lang_B,ACT-Lang-B,correct,0.4386926293373108
+act_lang_B,ACT-Lang-B,correct,0.31607773900032043
+act_lang_B,ACT-Lang-B,correct,0.3470394015312195
+act_lang_B,ACT-Lang-B,correct,0.6298249363899231
+act_lang_B,ACT-Lang-B,correct,0.3148568272590637
+act_lang_B,ACT-Lang-B,correct,0.39737096428871155
+act_lang_B,ACT-Lang-B,zero_language,0.4570019841194153
+act_lang_B,ACT-Lang-B,zero_language,1.0790034532546997
+act_lang_B,ACT-Lang-B,zero_language,0.5529047846794128
+act_lang_B,ACT-Lang-B,zero_language,1.0289511680603027
+act_lang_B,ACT-Lang-B,zero_language,0.5170636773109436
+act_lang_B,ACT-Lang-B,zero_language,0.6010649800300598
+act_lang_B,ACT-Lang-B,zero_language,0.4608084559440613
+act_lang_B,ACT-Lang-B,zero_language,0.4174724221229553
+act_lang_B,ACT-Lang-B,wrong_language,0.4684998393058777
+act_lang_B,ACT-Lang-B,wrong_language,0.35331839323043823
+act_lang_B,ACT-Lang-B,wrong_language,1.3994219303131104
+act_lang_B,ACT-Lang-B,wrong_language,0.9633470773696899
+act_lang_B,ACT-Lang-B,wrong_language,0.8993577361106873
+act_lang_B,ACT-Lang-B,wrong_language,0.6074154376983643
+act_lang_B,ACT-Lang-B,wrong_language,0.35486868023872375
+act_lang_B,ACT-Lang-B,wrong_language,0.42102429270744324
+act_lang_B,ACT-Lang-B,correct,0.2176864594221115
+act_lang_B,ACT-Lang-B,correct,0.4071226119995117
+act_lang_B,ACT-Lang-B,correct,0.6064964532852173
+act_lang_B,ACT-Lang-B,correct,0.6036768555641174
+act_lang_B,ACT-Lang-B,correct,0.1092187687754631
+act_lang_B,ACT-Lang-B,correct,0.0756751149892807
+act_lang_B,ACT-Lang-B,correct,0.37429097294807434
+act_lang_B,ACT-Lang-B,correct,0.28983035683631897
+act_lang_B,ACT-Lang-B,zero_language,0.2446930855512619
+act_lang_B,ACT-Lang-B,zero_language,0.8784365653991699
+act_lang_B,ACT-Lang-B,zero_language,0.7634904384613037
+act_lang_B,ACT-Lang-B,zero_language,1.0928115844726562
+act_lang_B,ACT-Lang-B,zero_language,0.13044238090515137
+act_lang_B,ACT-Lang-B,zero_language,0.17880278825759888
+act_lang_B,ACT-Lang-B,zero_language,0.4094800651073456
+act_lang_B,ACT-Lang-B,zero_language,0.35921674966812134
+act_lang_B,ACT-Lang-B,wrong_language,0.22042810916900635
+act_lang_B,ACT-Lang-B,wrong_language,0.8210999369621277
+act_lang_B,ACT-Lang-B,wrong_language,1.0774723291397095
+act_lang_B,ACT-Lang-B,wrong_language,1.016845941543579
+act_lang_B,ACT-Lang-B,wrong_language,0.7104530334472656
+act_lang_B,ACT-Lang-B,wrong_language,0.07328867167234421
+act_lang_B,ACT-Lang-B,wrong_language,0.4238874912261963
+act_lang_B,ACT-Lang-B,wrong_language,0.37818312644958496
+act_lang_B,ACT-Lang-B,correct,0.3654156029224396
+act_lang_B,ACT-Lang-B,correct,0.3365958034992218
+act_lang_B,ACT-Lang-B,correct,0.5654810667037964
+act_lang_B,ACT-Lang-B,correct,0.17017953097820282
+act_lang_B,ACT-Lang-B,correct,0.2995494604110718
+act_lang_B,ACT-Lang-B,correct,0.38083216547966003
+act_lang_B,ACT-Lang-B,correct,0.23074854910373688
+act_lang_B,ACT-Lang-B,correct,0.34170886874198914
+act_lang_B,ACT-Lang-B,zero_language,0.3476485013961792
+act_lang_B,ACT-Lang-B,zero_language,0.3264593482017517
+act_lang_B,ACT-Lang-B,zero_language,0.7791321873664856
+act_lang_B,ACT-Lang-B,zero_language,0.14547450840473175
+act_lang_B,ACT-Lang-B,zero_language,0.862834632396698
+act_lang_B,ACT-Lang-B,zero_language,0.6065462231636047
+act_lang_B,ACT-Lang-B,zero_language,0.5771598815917969
+act_lang_B,ACT-Lang-B,zero_language,0.38979190587997437
+act_lang_B,ACT-Lang-B,wrong_language,0.5944733619689941
+act_lang_B,ACT-Lang-B,wrong_language,0.4981885850429535
+act_lang_B,ACT-Lang-B,wrong_language,0.6954748630523682
+act_lang_B,ACT-Lang-B,wrong_language,0.1433332860469818
+act_lang_B,ACT-Lang-B,wrong_language,0.259940505027771
+act_lang_B,ACT-Lang-B,wrong_language,0.7053182721138
+act_lang_B,ACT-Lang-B,wrong_language,0.8810945749282837
+act_lang_B,ACT-Lang-B,wrong_language,0.8455412983894348
+act_lang_B,ACT-Lang-B,correct,0.3046901226043701
+act_lang_B,ACT-Lang-B,correct,0.19410401582717896
+act_lang_B,ACT-Lang-B,correct,0.3340633511543274
+act_lang_B,ACT-Lang-B,correct,0.3753032386302948
+act_lang_B,ACT-Lang-B,correct,0.07990845292806625
+act_lang_B,ACT-Lang-B,correct,0.3613673746585846
+act_lang_B,ACT-Lang-B,correct,0.13465425372123718
+act_lang_B,ACT-Lang-B,correct,0.28818315267562866
+act_lang_B,ACT-Lang-B,zero_language,0.4198172688484192
+act_lang_B,ACT-Lang-B,zero_language,0.3577502965927124
+act_lang_B,ACT-Lang-B,zero_language,0.6317110657691956
+act_lang_B,ACT-Lang-B,zero_language,0.5926228165626526
+act_lang_B,ACT-Lang-B,zero_language,0.0944581851363182
+act_lang_B,ACT-Lang-B,zero_language,0.7071740031242371
+act_lang_B,ACT-Lang-B,zero_language,0.3147814869880676
+act_lang_B,ACT-Lang-B,zero_language,0.5415436029434204
+act_lang_B,ACT-Lang-B,wrong_language,0.42149415612220764
+act_lang_B,ACT-Lang-B,wrong_language,0.3675476908683777
+act_lang_B,ACT-Lang-B,wrong_language,0.6159408092498779
+act_lang_B,ACT-Lang-B,wrong_language,0.5149571299552917
+act_lang_B,ACT-Lang-B,wrong_language,0.08297304064035416
+act_lang_B,ACT-Lang-B,wrong_language,0.6646266579627991
+act_lang_B,ACT-Lang-B,wrong_language,0.38049453496932983
+act_lang_B,ACT-Lang-B,wrong_language,0.4274960458278656
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.5277524590492249
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.4219992458820343
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.8405976891517639
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.21143139898777008
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.3520558178424835
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.1304161697626114
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.4436013102531433
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.6794329881668091
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.5639207363128662
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.9204638600349426
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,1.1988335847854614
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.343771368265152
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.6936327815055847
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.2891624867916107
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.9645419120788574
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.7425845265388489
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.7361009120941162
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.0799322128295898
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.8138005137443542
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.543205201625824
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.8174081444740295
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.13316352665424347
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.6889430284500122
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.8438788652420044
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.5565182566642761
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.5233478546142578
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.20333166420459747
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.5578705072402954
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.500050961971283
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.6462249159812927
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.27430176734924316
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.12226787954568863
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.6856957674026489
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.6203048825263977
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.3055124878883362
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.7227854132652283
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,1.403132677078247
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,1.146799087524414
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.9203576445579529
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.18057386577129364
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.7517145276069641
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.2442874908447266
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.28773942589759827
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.9183051586151123
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.2812016010284424
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.286704182624817
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.2488490343093872
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.1450304538011551
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.3803401291370392
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.1733068972826004
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.3569483458995819
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.17929711937904358
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.07225783914327621
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.8178670406341553
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.4279431700706482
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.5162903666496277
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,1.0041906833648682
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.6888065338134766
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.7791674137115479
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.25297072529792786
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.08961451053619385
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,1.063571572303772
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.7922635674476624
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.4808535575866699
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.38102033734321594
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.6101711988449097
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.357269048690796
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.3256971538066864
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.5563111901283264
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.1782435178756714
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.43276482820510864
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.9746710658073425
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.307842880487442
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.2587796747684479
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.5166323184967041
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.08132970333099365
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.4707815945148468
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,1.674447774887085
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.26354706287384033
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.3803613781929016
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.4174535572528839
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.45826640725135803
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.5588858723640442
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.14035828411579132
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.7652221322059631
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,1.5118030309677124
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.9301154017448425
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,1.0343363285064697
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.8519818782806396
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.46958374977111816
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.6427368521690369
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.3467353582382202
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.7071610689163208
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.1239572763442993
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.2134699821472168
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.39316675066947937
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.1189374104142189
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.14407478272914886
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.756025493144989
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.45084020495414734
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.5670432448387146
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.3515576124191284
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.37741461396217346
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.20629334449768066
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.14960657060146332
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.5550729632377625
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.8448175191879272
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,1.7861567735671997
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.6517922282218933
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.3876289129257202
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.7403904795646667
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.5135851502418518
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.20795385539531708
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.49036717414855957
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.9343199729919434
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.731178641319275
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.716544508934021
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.4289644658565521
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.3794777989387512
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.1719011068344116
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.11663863062858582
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.1807589828968048
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.24067822098731995
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.2531830370426178
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.7609870433807373
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.3208237588405609
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.491964727640152
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.5453277826309204
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,1.007419228553772
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.958495020866394
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,1.1846237182617188
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.2766871452331543
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.795207679271698
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.6349412798881531
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.795556902885437
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,1.0056346654891968
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.8194570541381836
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.012042760848999
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.0650696754455566
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.2817763388156891
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.9499090313911438
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.8143948316574097
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.9172359704971313
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.4198534488677979
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.2087368369102478
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.5928172469139099
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.4955025911331177
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.6224413514137268
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.4759202003479004
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.4793500006198883
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.38452818989753723
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.46494096517562866
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.9942057132720947
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.47197940945625305
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.45307475328445435
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,1.3607169389724731
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.2565496861934662
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.6306558847427368
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,1.2177228927612305
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.7730758190155029
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.8837815523147583
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.5054373741149902
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.5076227784156799
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.3560214042663574
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.22196157276630402
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.0072920322418213
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.263340950012207
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.9360741972923279
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.27235838770866394
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.11607564985752106
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.39875656366348267
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.44896379113197327
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.2634168267250061
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.27863532304763794
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.30981606245040894
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.25851136445999146
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.5380143523216248
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.11603575944900513
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,1.2159839868545532
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.5747678875923157
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.3971046507358551
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.607681155204773
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.8820689916610718
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.7031517624855042
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.5289997458457947
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.15499399602413177
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.3148436546325684
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.9542567133903503
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.2686521112918854
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.9413034319877625
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.8129742741584778
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.8074178099632263
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.26642099022865295
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.3325754404067993
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.28587859869003296
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.27338674664497375
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.44238123297691345
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.5006096959114075
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.29329240322113037
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.3912290036678314
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.42868873476982117
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.6309989094734192
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.6758739352226257
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.6207044124603271
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,1.0565721988677979
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.4903377890586853
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.6181201934814453
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.6650824546813965
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.45473620295524597
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.259473443031311
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.2876240313053131
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.2714802026748657
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.0472344160079956
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.5143881440162659
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.100511074066162
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.3672181367874146
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.4753839373588562
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.8405079245567322
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.46149495244026184
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.18525807559490204
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.34858065843582153
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.2084759622812271
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.11182283610105515
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.1704520434141159
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.194454163312912
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.709075927734375
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,1.5919361114501953
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.37242940068244934
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.5224933624267578
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.4452905058860779
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.14693856239318848
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.37646716833114624
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.34010758996009827
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.8015159964561462
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.605913519859314
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.3816962242126465
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.0768969058990479
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.4510132074356079
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.49660608172416687
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.5220199823379517
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.4213840961456299
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.35496383905410767
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.3050703704357147
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.23859310150146484
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.3634461462497711
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.39752498269081116
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.40283939242362976
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.3880751132965088
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,1.333737850189209
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.677319347858429
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.9636222124099731
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.3391665816307068
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.775219738483429
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.9009440541267395
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.5864236950874329
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.9518678188323975
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.8855321407318115
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.9160482883453369
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.1508291959762573
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.438922256231308
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.7489270567893982
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.5912694931030273
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.6072334051132202
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.0027008056640625
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.912383496761322
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.1506633311510086
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.2206244021654129
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.794162929058075
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.35584092140197754
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.25912123918533325
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.24837364256381989
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.5351575016975403
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,1.1318495273590088
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.18169835209846497
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.8912265300750732
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.5908038020133972
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.3491367995738983
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.730779767036438
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.3002568483352661
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.6620529294013977
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.0328987836837769
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.10891325026750565
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.2544468343257904
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.6691805720329285
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.31638091802597046
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.7353386878967285
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.28684183955192566
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.219717025756836
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.2600986957550049
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.17375968396663666
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.2803161144256592
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.137833833694458
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.2458655685186386
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.2670612037181854
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.34176069498062134
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.4493938386440277
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.9529818296432495
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.33279848098754883
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.9989630579948425
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.587839663028717
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.5705785155296326
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.9373301863670349
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.5598532557487488
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.45228779315948486
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.8546745181083679
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.5871023535728455
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.140365481376648
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.8004693984985352
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.6236414909362793
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.8428017497062683
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.6808457374572754
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.45715177059173584
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.6446887850761414
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.1801629513502121
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.0959511548280716
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.31946951150894165
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.16289100050926208
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.5543420910835266
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.20149275660514832
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.18910104036331177
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,1.1870746612548828
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.40301623940467834
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.13501468300819397
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.47346916794776917
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.6981576681137085
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.822850227355957
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.3237687945365906
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.3476511836051941
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.2412877082824707
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.6076990365982056
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.22259612381458282
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.5365983247756958
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.5653637051582336
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.8800376057624817
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.6775559186935425
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.25818052887916565
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.08664831519126892
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.3851650059223175
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.31299352645874023
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.28286027908325195
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.3191673159599304
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,1.1349810361862183
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.31724610924720764
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.38939937949180603
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.09091632813215256
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.9087663292884827
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.7788335084915161
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.4656694829463959
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.5521061420440674
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.3555040657520294
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,1.3725751638412476
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.6978896856307983
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.14780212938785553
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.7893754839897156
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.8655143976211548
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.6857231855392456
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.5090211033821106
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.4037729799747467
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.1031293869018555
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.6359267830848694
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.8111081719398499
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.15474292635917664
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.230854332447052
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.31800660490989685
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.2530946135520935
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.16034989058971405
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.2575719952583313
+act_lang_ABC_200k,ACT-Lang-ABC 200k,correct,0.37703514099121094
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.8466870784759521
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.4442862570285797
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.2861468195915222
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.6557415127754211
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.43056419491767883
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.20880521833896637
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.36075013875961304
+act_lang_ABC_200k,ACT-Lang-ABC 200k,zero_language,0.46825435757637024
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.182619333267212
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.16128824651241302
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.250821977853775
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,1.0810664892196655
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.9758427143096924
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.390149861574173
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.7480301856994629
+act_lang_ABC_200k,ACT-Lang-ABC 200k,wrong_language,0.5088306665420532
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.5373920202255249
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.5252344012260437
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.9244062304496765
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.3251588046550751
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.41767460107803345
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.16194245219230652
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.5446149706840515
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.3993420898914337
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.550548791885376
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.9667502641677856
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,1.188010811805725
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.2666328251361847
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.5488938689231873
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.30735403299331665
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.9424294233322144
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.772287130355835
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.7555010914802551
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.1031125783920288
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.9271784424781799
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.3821539878845215
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.7098786234855652
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.1612061858177185
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.7978840470314026
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.8891611099243164
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.622327983379364
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.39869800209999084
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.24641500413417816
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.6667324900627136
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.9633435606956482
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.5361830592155457
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.3575188219547272
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.2403075248003006
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.9859035015106201
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.4638287127017975
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.4893436133861542
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.6615731120109558
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,1.305986762046814
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,1.2697499990463257
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.8577788472175598
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.5098515152931213
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.0382568836212158
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.8933936357498169
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.6376444101333618
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.6922990083694458
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.1256680488586426
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.2596226930618286
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.236207365989685
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.41170480847358704
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.48444077372550964
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.6598690748214722
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.7309632897377014
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.36913400888442993
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.09881395846605301
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.8289508819580078
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.46208328008651733
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.32815250754356384
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,1.2833292484283447
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.9061763286590576
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,1.0282617807388306
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.3609045445919037
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.14532247185707092
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,1.1073367595672607
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.9990172386169434
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.5686153769493103
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.4837186932563782
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.7571297883987427
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.249825358390808
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.4248785674571991
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.6348824501037598
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.1929585933685303
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.4870052635669708
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.9308053255081177
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.38490816950798035
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.27580419182777405
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.6595974564552307
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.08450613915920258
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.5096815228462219
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,1.4177805185317993
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.27440908551216125
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.7355928421020508
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.4262572228908539
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.47821465134620667
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.758165717124939
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.12516570091247559
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.885047972202301
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,1.3860762119293213
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.8115255832672119
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,1.158910870552063
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.722545325756073
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.5271546244621277
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.8046156764030457
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.3862050473690033
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.8590713739395142
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.205628514289856
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.1213136911392212
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.7473909854888916
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.17410080134868622
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.27609291672706604
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,1.1218823194503784
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.5521849393844604
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.5359021425247192
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.39099109172821045
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.7748369574546814
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.3152560889720917
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.2086590975522995
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.7741373181343079
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,1.1875863075256348
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,1.951651692390442
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.7453517913818359
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.45246565341949463
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.9285843968391418
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,1.0579991340637207
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.3309251368045807
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.537050187587738
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.3893427848815918
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.9005661010742188
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.8827700018882751
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.9293498992919922
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.7537189722061157
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.2876042127609253
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.12138200551271439
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.18188820779323578
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.30339235067367554
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.4244229197502136
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.7735985517501831
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.35015130043029785
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.5134655237197876
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.330238938331604
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,1.0411843061447144
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,1.148330807685852
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,1.1311122179031372
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.3284764289855957
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.7463273406028748
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.6377149820327759
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.9421297907829285
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.8101248145103455
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.7574050426483154
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.6926316022872925
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.1095561981201172
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.5290530920028687
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.8259879350662231
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.8775507211685181
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.909313976764679
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.0196690559387207
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.2098848670721054
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.6148899793624878
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.7449809312820435
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.8988544344902039
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.5096862316131592
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.2994143068790436
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.34444454312324524
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.3899332582950592
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.9787569046020508
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.2782721221446991
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.8090513944625854
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,1.3945977687835693
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.5991922616958618
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.4115254878997803
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.9864231944084167
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.6048058867454529
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.9599487781524658
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.4212343394756317
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.7342070937156677
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.1678924560546875
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.3175554871559143
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.9348090887069702
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.897878110408783
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.9321845173835754
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.25632667541503906
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.13730323314666748
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.4154585897922516
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.613768458366394
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.3621845245361328
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.34207603335380554
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.36299434304237366
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.528983473777771
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.38295432925224304
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.30631116032600403
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,1.1019554138183594
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.6972068548202515
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.5816037058830261
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.49893349409103394
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.7432193160057068
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.8710901737213135
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.7696733474731445
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.28641557693481445
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.9954908490180969
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.9125019311904907
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.4020116627216339
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.8586254119873047
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.7797136306762695
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.8503521680831909
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.2481137365102768
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.5163960456848145
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.6684679388999939
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.5161321759223938
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.3602343797683716
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.4564381241798401
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.3194933235645294
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.604080319404602
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.6978186368942261
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.9758386611938477
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.9706568121910095
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.9124599099159241
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,1.0696462392807007
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.370105504989624
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.6971122026443481
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,1.2193491458892822
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.48518896102905273
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.5956895351409912
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.6877502799034119
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.5147967338562012
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.8612998127937317
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.3732106685638428
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.1218618154525757
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.3101539611816406
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.6773334741592407
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.8248996734619141
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.473510205745697
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.590360164642334
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.5063540935516357
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.2717302739620209
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.12876982986927032
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.327988862991333
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.41678586602211
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.6276585459709167
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,1.5516372919082642
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.7299284338951111
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.9316776990890503
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.40760675072669983
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.2419435679912567
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.5602594017982483
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.7896443605422974
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.7463619112968445
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.5810481309890747
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.3185946941375732
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.1755716800689697
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.5129165053367615
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.3739542067050934
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.7514983415603638
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.43423527479171753
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.769568145275116
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.4378014802932739
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.5545060038566589
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.37425655126571655
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.340027391910553
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.7327818274497986
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.4731682538986206
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,1.5034712553024292
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.907753586769104
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.9759675860404968
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.5299769639968872
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.6650062799453735
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.47508883476257324
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.722364068031311
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.7881978154182434
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.9951215982437134
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.3619307279586792
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.966061532497406
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.5252927541732788
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.575080931186676
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.6662840843200684
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.8050341010093689
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.9271513223648071
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.8186404705047607
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.15717527270317078
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.17998073995113373
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.746749222278595
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.29119351506233215
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.41403263807296753
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.23860637843608856
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.6884172558784485
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.9096079468727112
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.17624638974666595
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.5542479753494263
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.6644482016563416
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.32021889090538025
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.7590515613555908
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.4968610405921936
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.6950336694717407
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.9221358299255371
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.38870349526405334
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.23316682875156403
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.736358642578125
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.29134848713874817
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.673676609992981
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.49597227573394775
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.3295046091079712
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.2940761148929596
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.20083022117614746
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.3128564655780792
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.48084041476249695
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.43138372898101807
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.21618707478046417
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.41389593482017517
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.5704600811004639
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.6749064922332764
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.31288251280784607
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.9105007648468018
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.6242374181747437
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.4807734489440918
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.7885960340499878
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.53983074426651
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.35036909580230713
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.7497791647911072
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.6072487831115723
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.0076022148132324
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.902339518070221
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.4966445565223694
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.7593111395835876
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.9002459049224854
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.4201889932155609
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.6354058384895325
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.21383337676525116
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.13281963765621185
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.3325251340866089
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.21193468570709229
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.5160430669784546
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.22453099489212036
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.19994521141052246
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,1.2999697923660278
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.38764721155166626
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.20443838834762573
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.4089425802230835
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.7962267398834229
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.7676184773445129
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.5010920763015747
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.3653028607368469
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.3295856714248657
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.6249006986618042
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.3264034688472748
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.5059103965759277
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.9947547316551208
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.9463643431663513
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.8001281023025513
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.34503644704818726
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.08154857903718948
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.40966835618019104
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.3739050030708313
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.5512790083885193
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.319645494222641
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,1.2597323656082153
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.3887878954410553
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.370925635099411
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.15381139516830444
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.7510111927986145
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.7936599254608154
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.6424627900123596
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.4572382867336273
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.5265675187110901
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,1.3130426406860352
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.813289999961853
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.4172285199165344
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.8045671582221985
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.9623693227767944
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.0067185163497925
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.4775567054748535
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.3252541720867157
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.1601495742797852
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.7299968004226685
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.7683148384094238
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.18650132417678833
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.3092220723628998
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.39274823665618896
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,1.0920640230178833
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.2769474387168884
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.31308841705322266
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,correct,0.4704250693321228
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.9880199432373047
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.4844822287559509
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.3271055817604065
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.7676597833633423
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.9089654088020325
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.33391255140304565
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.30821165442466736
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,zero_language,0.5348711609840393
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.21535062789917
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.18924367427825928
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.3465363681316376
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.2122604846954346
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,1.1151200532913208
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.7569651007652283
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.8919026255607605
+act_lang_ABC_size_matched,ACT-Lang-ABC Size-Matched,wrong_language,0.5541982054710388

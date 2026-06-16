@@ -1,0 +1,58 @@
+# Phase 0 dataset allocation for CALVIN ACT experiments.
+#
+# Before running LeRobot commands:
+#   source /home/zengzixuan/cvprojects/calvin_env.sh
+#   unset LEROBOT_HOME
+#   export HF_LEROBOT_HOME="$CALVIN_LEROBOT_ROOT"
+#   export HF_HOME="$CALVIN_RUNS/hf_cache"
+#   export HF_DATASETS_CACHE="$HF_HOME/datasets"
+#   export TORCH_HOME="$CALVIN_RUNS/torch_cache"
+
+raw:
+  task_abc_d: /SSD_DISK/users/zengzixuan/calvin/task_ABC_D
+  training_split: /SSD_DISK/users/zengzixuan/calvin/task_ABC_D/training
+  validation_split: /SSD_DISK/users/zengzixuan/calvin/task_ABC_D/validation
+  scene_info: /SSD_DISK/users/zengzixuan/calvin/task_ABC_D/training/scene_info.npy
+
+converted_root: /EXT_DISK/users/zengzixuan/processed-calvin
+runs_root: /EXT_DISK/users/zengzixuan/calvin_runs
+torchvision_cache: /EXT_DISK/users/zengzixuan/calvin_runs/torch_cache
+resnet18_imagenet_weights: /EXT_DISK/users/zengzixuan/calvin_runs/torch_cache/hub/checkpoints/resnet18-f37072fd.pth
+
+lerobot_datasets:
+  act_B:
+    repo_id: local/calvin_B
+    root: /EXT_DISK/users/zengzixuan/processed-calvin/calvin_B
+    source: calvin_scene_B
+  act_ABC:
+    repo_id: local/calvin_ABC
+    root: /EXT_DISK/users/zengzixuan/processed-calvin/calvin_ABC
+    source: calvin_scene_A + calvin_scene_B + calvin_scene_C
+  zero_shot_D:
+    repo_id: local/calvin_D
+    root: /EXT_DISK/users/zengzixuan/processed-calvin/calvin_D
+    source: task_ABC_D validation split
+
+schema:
+  observation.images.static: rgb_static uint8 HWC 200x200x3 -> LeRobot video
+  observation.images.gripper: rgb_gripper uint8 HWC 84x84x3 -> LeRobot video
+  observation.state: robot_obs float32 shape 15
+  action: rel_actions float32 shape 7
+  omitted_by_design:
+    - scene_obs
+    - depth_static
+    - depth_gripper
+    - depth_tactile
+    - rgb_tactile
+
+conversion:
+  script: project/scripts/convert_calvin_to_lerobot.py
+  manual_launcher: project/scripts/run_phase0_conversion.sh
+  api_basis: LeRobotDataset.create/add_frame/save_episode/finalize
+  note: No CALVIN-specific LeRobot converter exists in this worktree; this is a project adapter using the official LeRobot dataset writer API.
+  default_datasets:
+    - B
+    - ABC
+    - D
+  segment_frames: 3000
+  task_source: environment

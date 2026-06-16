@@ -1,0 +1,11 @@
+experiment,task,sample_index,gt_action_norm_first6,pred_action_norm_first6
+act_lang_B,lift the red block,0,3.2645652294158936,3.3097798824310303
+act_lang_B,lift the red block,13,3.3849244117736816,2.0217204093933105
+act_lang_B,lift the red block,26,2.017841339111328,1.4744892120361328
+act_lang_B,lift the red block,40,3.681856870651245,3.2652955055236816
+act_lang_B,lift the red block,53,0.7542077302932739,1.568552851676941
+act_lang_B,lift the red block,66,0.768424928188324,1.4021373987197876
+act_lang_B,lift the red block,80,0.3608708083629608,1.0992887020111084
+act_lang_B,lift the red block,93,1.0552046298980713,0.7314733266830444
+act_lang_B,lift the red block,106,2.1607506275177,3.433729410171509
+act_lang_B,lift the red block,120,2.6699862480163574,2.547222137451172

@@ -1,0 +1,5 @@
+environment,split,scene,path,frame_start,frame_end,num_raw_episodes_or_segments,num_frames,num_language_sequences,num_language_tasks,status,notes
+A,training,calvin_scene_A,/SSD_DISK/users/zengzixuan/calvin/task_ABC_D/training,1191339,1795044,46,603706,6089,34,raw_present,training scene_info split
+B,training,calvin_scene_B,/SSD_DISK/users/zengzixuan/calvin/task_ABC_D/training,0,598909,67,598910,6115,34,raw_present,training scene_info split
+C,training,calvin_scene_C,/SSD_DISK/users/zengzixuan/calvin/task_ABC_D/training,598910,1191338,34,592429,5666,34,raw_present,training scene_info split
+D,validation,calvin_scene_D,/SSD_DISK/users/zengzixuan/calvin/task_ABC_D/validation,0,420498,4,99022,1087,34,raw_present,validation split treated as D

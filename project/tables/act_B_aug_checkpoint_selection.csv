@@ -1,0 +1,5 @@
+experiment,selection,step,val_action_l1,checkpoint,checkpoint_exists,notes
+act_B_aug,best_val_metric_only,15000,0.5409390446729958,,False,"best recorded validation step, but no checkpoint was saved at step 15000"
+act_B_aug,nearest_saved_before_best,10000,0.5478160153143108,/EXT_DISK/users/zengzixuan/calvin_runs/act_B_aug/20260605_063735_act_B_aug_full_gpu0/checkpoints/step_00010000,True,saved checkpoint before the best metric-only validation step
+act_B_aug,nearest_saved_after_best,20000,0.5516347135417163,/EXT_DISK/users/zengzixuan/calvin_runs/act_B_aug/20260605_063735_act_B_aug_full_gpu0/checkpoints/step_00020000,True,saved checkpoint after the best metric-only validation step
+act_B_aug,final,100000,0.6485505253076553,/EXT_DISK/users/zengzixuan/calvin_runs/act_B_aug/20260605_063735_act_B_aug_full_gpu0/checkpoint,True,full 100k-step endpoint

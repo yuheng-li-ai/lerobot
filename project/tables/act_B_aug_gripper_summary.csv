@@ -1,0 +1,2 @@
+environment,num_frames,close_count,open_count,close_fraction,open_fraction,switch_count,switch_rate_per_1000_frames,mean_run_length_frames,median_run_length_frames,q90_run_length_frames,q99_run_length_frames
+B,598910,281768,317142,0.47046801689736356,0.5295319831026365,14142,23.612896762451786,42.34674397228311,38.0,65.0,133.57999999999993

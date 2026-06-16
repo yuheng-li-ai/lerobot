@@ -1,0 +1,2 @@
+experiment,mode,dataset,train_frames,val_frames,batch_size,steps,approx_train_passes,gpu,measured_peak_reserved_gb,expected_full_run_reserved_gb,estimated_runtime_hours,checkpoint_disk_gb,notes
+act_B,full_training,local/calvin_B,535403,63507,32,100000,5.98,NVIDIA RTX A6000,2.107421875,3-6,6-12,5.9,"Peak is one-batch probe with ImageNet ResNet18; runtime estimate includes validation/checkpoint overhead and video decode variability."

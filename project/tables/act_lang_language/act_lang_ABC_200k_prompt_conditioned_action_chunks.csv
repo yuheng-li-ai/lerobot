@@ -1,0 +1,51 @@
+experiment,task,chunk_t,pred_action_norm_first6
+act_lang_ABC_200k,push the object into the drawer,0,2.239063262939453
+act_lang_ABC_200k,push the object into the drawer,10,1.1035844087600708
+act_lang_ABC_200k,push the object into the drawer,20,0.6976014375686646
+act_lang_ABC_200k,push the object into the drawer,30,1.3532484769821167
+act_lang_ABC_200k,push the object into the drawer,40,1.379757285118103
+act_lang_ABC_200k,push the object into the drawer,50,0.5088303089141846
+act_lang_ABC_200k,push the object into the drawer,60,1.3713051080703735
+act_lang_ABC_200k,push the object into the drawer,70,0.8917881846427917
+act_lang_ABC_200k,push the object into the drawer,80,0.5519811511039734
+act_lang_ABC_200k,push the object into the drawer,90,0.3633224666118622
+act_lang_ABC_200k,turn on the yellow lamp,0,1.8685334920883179
+act_lang_ABC_200k,turn on the yellow lamp,10,0.5452837347984314
+act_lang_ABC_200k,turn on the yellow lamp,20,0.9490787386894226
+act_lang_ABC_200k,turn on the yellow lamp,30,0.9282811284065247
+act_lang_ABC_200k,turn on the yellow lamp,40,1.0195649862289429
+act_lang_ABC_200k,turn on the yellow lamp,50,0.4960537552833557
+act_lang_ABC_200k,turn on the yellow lamp,60,1.5227017402648926
+act_lang_ABC_200k,turn on the yellow lamp,70,0.43175211548805237
+act_lang_ABC_200k,turn on the yellow lamp,80,0.42761561274528503
+act_lang_ABC_200k,turn on the yellow lamp,90,0.5497222542762756
+act_lang_ABC_200k,push the switch upwards,0,1.9230947494506836
+act_lang_ABC_200k,push the switch upwards,10,0.4051859378814697
+act_lang_ABC_200k,push the switch upwards,20,1.0023149251937866
+act_lang_ABC_200k,push the switch upwards,30,0.7819882035255432
+act_lang_ABC_200k,push the switch upwards,40,0.8347020745277405
+act_lang_ABC_200k,push the switch upwards,50,0.5083187222480774
+act_lang_ABC_200k,push the switch upwards,60,1.362518548965454
+act_lang_ABC_200k,push the switch upwards,70,0.5144571661949158
+act_lang_ABC_200k,push the switch upwards,80,0.41777801513671875
+act_lang_ABC_200k,push the switch upwards,90,0.6057649254798889
+act_lang_ABC_200k,"grasp the pink block, then lift it up",0,3.0196681022644043
+act_lang_ABC_200k,"grasp the pink block, then lift it up",10,1.321169137954712
+act_lang_ABC_200k,"grasp the pink block, then lift it up",20,0.9787476658821106
+act_lang_ABC_200k,"grasp the pink block, then lift it up",30,1.4334018230438232
+act_lang_ABC_200k,"grasp the pink block, then lift it up",40,0.9333323240280151
+act_lang_ABC_200k,"grasp the pink block, then lift it up",50,0.6844349503517151
+act_lang_ABC_200k,"grasp the pink block, then lift it up",60,0.5110432505607605
+act_lang_ABC_200k,"grasp the pink block, then lift it up",70,1.1583579778671265
+act_lang_ABC_200k,"grasp the pink block, then lift it up",80,1.0202913284301758
+act_lang_ABC_200k,"grasp the pink block, then lift it up",90,1.0612226724624634
+act_lang_ABC_200k,push right the blue block,0,2.787410259246826
+act_lang_ABC_200k,push right the blue block,10,1.8453491926193237
+act_lang_ABC_200k,push right the blue block,20,1.0144014358520508
+act_lang_ABC_200k,push right the blue block,30,0.6178364753723145
+act_lang_ABC_200k,push right the blue block,40,0.979435920715332
+act_lang_ABC_200k,push right the blue block,50,1.0138479471206665
+act_lang_ABC_200k,push right the blue block,60,0.8127158880233765
+act_lang_ABC_200k,push right the blue block,70,1.2297561168670654
+act_lang_ABC_200k,push right the blue block,80,0.7885957360267639
+act_lang_ABC_200k,push right the blue block,90,0.4021696448326111

@@ -1,0 +1,6 @@
+figure,kind,note
+project/figures/task2/comparisons/best_final_val_action_l1.png,best_final_val_action_l1,Task 2 requested cross-model comparison
+project/figures/task2/comparisons/data_action_visual_summary.png,data_action_visual_summary,Task 2 requested cross-model comparison
+project/figures/task2/comparisons/overfit_convergence_summary.png,overfit_convergence_summary,Task 2 requested cross-model comparison
+project/figures/task2/comparisons/pairwise_relative_delta_heatmap.png,pairwise_relative_delta_heatmap,Task 2 requested cross-model comparison
+project/figures/task2/comparisons/requested_pairwise_loss_curves.png,requested_pairwise_loss_curves,Task 2 requested cross-model comparison

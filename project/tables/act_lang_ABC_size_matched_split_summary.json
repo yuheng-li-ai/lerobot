@@ -1,0 +1,20 @@
+{
+  "frame_delta_vs_b_train": 91,
+  "frames_by_env": {
+    "A": 110177,
+    "B": 110176,
+    "C": 110193
+  },
+  "full_abc_total_episodes": 17870,
+  "full_abc_train_episodes": 16083,
+  "full_abc_val_episodes": 1787,
+  "selected_by_env": {
+    "A": 1830,
+    "B": 1836,
+    "C": 1851
+  },
+  "selected_train_episodes": 5517,
+  "selected_train_frames": 330546,
+  "target_b_train_frames": 330455,
+  "target_per_env_frames": 110151.66666666667
+}

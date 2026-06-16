@@ -1,0 +1,2 @@
+num_frames,num_episodes,mean_action_l2_first6,std_action_l2_first6,mean_step_delta_l2_first6,std_step_delta_l2_first6,gripper_close_fraction,gripper_open_fraction,gripper_switch_count
+1609097,611,0.51111770011256,0.24989557808181623,0.17159203759891753,0.11479213206129688,0.4545599177675429,0.5454400822324571,39657

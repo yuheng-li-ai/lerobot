@@ -1,0 +1,65 @@
+experiment,task_i,task_j,mean_action_chunk_l1
+act_lang_ABC_size_matched,push the object into the drawer,push the object into the drawer,0.0
+act_lang_ABC_size_matched,push the object into the drawer,turn on the yellow lamp,0.6431555151939392
+act_lang_ABC_size_matched,push the object into the drawer,push the switch upwards,0.5909489393234253
+act_lang_ABC_size_matched,push the object into the drawer,"grasp the pink block, then lift it up",0.5520957112312317
+act_lang_ABC_size_matched,push the object into the drawer,push right the blue block,0.5133776664733887
+act_lang_ABC_size_matched,push the object into the drawer,push right the pink block,0.5013834834098816
+act_lang_ABC_size_matched,push the object into the drawer,push the sliding door to the right,0.7054107785224915
+act_lang_ABC_size_matched,push the object into the drawer,slide down the switch,0.6673411726951599
+act_lang_ABC_size_matched,turn on the yellow lamp,push the object into the drawer,0.6431555151939392
+act_lang_ABC_size_matched,turn on the yellow lamp,turn on the yellow lamp,0.0
+act_lang_ABC_size_matched,turn on the yellow lamp,push the switch upwards,0.18266554176807404
+act_lang_ABC_size_matched,turn on the yellow lamp,"grasp the pink block, then lift it up",0.5305995345115662
+act_lang_ABC_size_matched,turn on the yellow lamp,push right the blue block,0.6330382227897644
+act_lang_ABC_size_matched,turn on the yellow lamp,push right the pink block,0.6166123151779175
+act_lang_ABC_size_matched,turn on the yellow lamp,push the sliding door to the right,0.6425549983978271
+act_lang_ABC_size_matched,turn on the yellow lamp,slide down the switch,0.46262916922569275
+act_lang_ABC_size_matched,push the switch upwards,push the object into the drawer,0.5909489393234253
+act_lang_ABC_size_matched,push the switch upwards,turn on the yellow lamp,0.18266554176807404
+act_lang_ABC_size_matched,push the switch upwards,push the switch upwards,0.0
+act_lang_ABC_size_matched,push the switch upwards,"grasp the pink block, then lift it up",0.47988253831863403
+act_lang_ABC_size_matched,push the switch upwards,push right the blue block,0.5935848355293274
+act_lang_ABC_size_matched,push the switch upwards,push right the pink block,0.5754974484443665
+act_lang_ABC_size_matched,push the switch upwards,push the sliding door to the right,0.5384019017219543
+act_lang_ABC_size_matched,push the switch upwards,slide down the switch,0.4585292339324951
+act_lang_ABC_size_matched,"grasp the pink block, then lift it up",push the object into the drawer,0.5520957112312317
+act_lang_ABC_size_matched,"grasp the pink block, then lift it up",turn on the yellow lamp,0.5305995345115662
+act_lang_ABC_size_matched,"grasp the pink block, then lift it up",push the switch upwards,0.47988253831863403
+act_lang_ABC_size_matched,"grasp the pink block, then lift it up","grasp the pink block, then lift it up",0.0
+act_lang_ABC_size_matched,"grasp the pink block, then lift it up",push right the blue block,0.32364845275878906
+act_lang_ABC_size_matched,"grasp the pink block, then lift it up",push right the pink block,0.3159816563129425
+act_lang_ABC_size_matched,"grasp the pink block, then lift it up",push the sliding door to the right,0.37076452374458313
+act_lang_ABC_size_matched,"grasp the pink block, then lift it up",slide down the switch,0.7224563360214233
+act_lang_ABC_size_matched,push right the blue block,push the object into the drawer,0.5133776664733887
+act_lang_ABC_size_matched,push right the blue block,turn on the yellow lamp,0.6330382227897644
+act_lang_ABC_size_matched,push right the blue block,push the switch upwards,0.5935848355293274
+act_lang_ABC_size_matched,push right the blue block,"grasp the pink block, then lift it up",0.32364845275878906
+act_lang_ABC_size_matched,push right the blue block,push right the blue block,0.0
+act_lang_ABC_size_matched,push right the blue block,push right the pink block,0.032483574002981186
+act_lang_ABC_size_matched,push right the blue block,push the sliding door to the right,0.34845131635665894
+act_lang_ABC_size_matched,push right the blue block,slide down the switch,0.6960151791572571
+act_lang_ABC_size_matched,push right the pink block,push the object into the drawer,0.5013834834098816
+act_lang_ABC_size_matched,push right the pink block,turn on the yellow lamp,0.6166123151779175
+act_lang_ABC_size_matched,push right the pink block,push the switch upwards,0.5754974484443665
+act_lang_ABC_size_matched,push right the pink block,"grasp the pink block, then lift it up",0.3159816563129425
+act_lang_ABC_size_matched,push right the pink block,push right the blue block,0.032483574002981186
+act_lang_ABC_size_matched,push right the pink block,push right the pink block,0.0
+act_lang_ABC_size_matched,push right the pink block,push the sliding door to the right,0.3489135205745697
+act_lang_ABC_size_matched,push right the pink block,slide down the switch,0.679892361164093
+act_lang_ABC_size_matched,push the sliding door to the right,push the object into the drawer,0.7054107785224915
+act_lang_ABC_size_matched,push the sliding door to the right,turn on the yellow lamp,0.6425549983978271
+act_lang_ABC_size_matched,push the sliding door to the right,push the switch upwards,0.5384019017219543
+act_lang_ABC_size_matched,push the sliding door to the right,"grasp the pink block, then lift it up",0.37076452374458313
+act_lang_ABC_size_matched,push the sliding door to the right,push right the blue block,0.34845131635665894
+act_lang_ABC_size_matched,push the sliding door to the right,push right the pink block,0.3489135205745697
+act_lang_ABC_size_matched,push the sliding door to the right,push the sliding door to the right,0.0
+act_lang_ABC_size_matched,push the sliding door to the right,slide down the switch,0.7213683128356934
+act_lang_ABC_size_matched,slide down the switch,push the object into the drawer,0.6673411726951599
+act_lang_ABC_size_matched,slide down the switch,turn on the yellow lamp,0.46262916922569275
+act_lang_ABC_size_matched,slide down the switch,push the switch upwards,0.4585292339324951
+act_lang_ABC_size_matched,slide down the switch,"grasp the pink block, then lift it up",0.7224563360214233
+act_lang_ABC_size_matched,slide down the switch,push right the blue block,0.6960151791572571
+act_lang_ABC_size_matched,slide down the switch,push right the pink block,0.679892361164093
+act_lang_ABC_size_matched,slide down the switch,push the sliding door to the right,0.7213683128356934
+act_lang_ABC_size_matched,slide down the switch,slide down the switch,0.0

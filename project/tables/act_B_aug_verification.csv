@@ -1,0 +1,3 @@
+experiment,camera,augmentation_enabled,mean_abs_pixel_delta,max_abs_pixel_delta,original_min,original_max,augmented_min,augmented_max,batch_shape
+act_B_aug,observation.images.static,True,0.029356248676776886,0.10341334342956543,0.0,1.0,0.0,1.0,2x3x200x200
+act_B_aug,observation.images.gripper,True,0.01769423857331276,0.08147255331277847,0.0,1.0,0.0,1.0,2x3x84x84

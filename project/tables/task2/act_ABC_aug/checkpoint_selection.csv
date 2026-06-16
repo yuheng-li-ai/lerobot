@@ -1,0 +1,11 @@
+step,val_action_l1,is_previous_neighbor,is_next_neighbor,is_selected
+10000,0.5717601487413049,False,False,False
+20000,0.5614613154903054,True,False,False
+30000,0.558814010117203,False,True,True
+40000,0.5690700439736247,False,False,False
+50000,0.5740822786465287,False,False,False
+60000,0.5689602512866259,False,False,False
+70000,0.5743009569123387,False,False,False
+80000,0.5786237241700292,False,False,False
+90000,0.5794698628596961,False,False,False
+100000,0.5872044791467488,False,False,False

@@ -1,0 +1,2 @@
+chunk_size,num_chunks,mean_within_chunk_delta_l2_first6,mean_first_last_delta_l2_first6,mean_boundary_jump_l2_first6,q90_boundary_jump_l2_first6,q99_boundary_jump_l2_first6
+100,5386,0.17170850746440022,0.7379491496075715,0.17248481704748045,0.3056120024934522,0.5714616855800309

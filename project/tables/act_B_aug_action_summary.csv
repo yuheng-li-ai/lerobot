@@ -1,0 +1,2 @@
+environment,num_frames,mean_action_l2_first6,std_action_l2_first6,mean_step_delta_l2,std_step_delta_l2,gripper_close_fraction,gripper_open_fraction,gripper_switch_count
+B,598910,0.502717178582896,0.2574902760749246,0.22080283574653892,0.3040122553135828,0.47046801689736356,0.5295319831026365,14142

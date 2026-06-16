@@ -1,0 +1,19 @@
+model,display_name,successful_subtasks,count,fraction
+act_lang_B_100k,B 100k,0,732,0.732
+act_lang_B_100k,B 100k,1,197,0.197
+act_lang_B_100k,B 100k,2,51,0.051
+act_lang_B_100k,B 100k,3,18,0.018
+act_lang_B_100k,B 100k,4,2,0.002
+act_lang_B_100k,B 100k,5,0,0.0
+act_lang_ABC_size_matched_100k,ABC-SM 100k,0,394,0.394
+act_lang_ABC_size_matched_100k,ABC-SM 100k,1,265,0.265
+act_lang_ABC_size_matched_100k,ABC-SM 100k,2,168,0.168
+act_lang_ABC_size_matched_100k,ABC-SM 100k,3,87,0.087
+act_lang_ABC_size_matched_100k,ABC-SM 100k,4,44,0.044
+act_lang_ABC_size_matched_100k,ABC-SM 100k,5,42,0.042
+act_lang_ABC_200k,ABC 200k,0,295,0.295
+act_lang_ABC_200k,ABC 200k,1,261,0.261
+act_lang_ABC_200k,ABC 200k,2,193,0.193
+act_lang_ABC_200k,ABC 200k,3,110,0.11
+act_lang_ABC_200k,ABC 200k,4,55,0.055
+act_lang_ABC_200k,ABC 200k,5,86,0.086

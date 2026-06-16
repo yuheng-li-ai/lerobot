@@ -1,0 +1,11 @@
+category,artifact,description
+chunking,project/figures/task3_report/chunking/chunk_horizon_error_heatmap.png,D action error by horizon step inside ACT chunks.
+chunking,project/figures/task3_report/chunking/within_chunk_vs_boundary_jump_D.png,Within-chunk smoothness versus chunk refresh boundary jumps.
+chunking,project/figures/task3_report/chunking/chunk_boundary_tail_risk_D.png,Mean/q90/q99 boundary jump risk.
+chunking,project/figures/task3_report/chunking/oversmoothing_index_D.png,Oversmoothing index relative to D demonstrations.
+chunking,project/figures/task3_report/chunking/chunk_horizon_degradation_D.png,Late-horizon error degradation within each chunk.
+action_error,project/figures/task3_report/action_error/action_dimension_error_heatmap_D.png,Per-action-dimension D error heatmap.
+action_error,project/figures/task3_report/action_error/pose_vs_gripper_error_D.png,Pose and gripper error breakdown.
+visual_shift,project/figures/task3_report/visual_shift/visual_shift_vs_action_error_D.png,Visual shift versus zero-shot action error.
+visual_shift,project/figures/task3_report/visual_shift/visual_shift_distance_summary_D.png,Normalized visual distance to D.
+summary,project/tables/task3_report/task3_report_visual_summary.csv,"Compact report summary table with error, visual shift, oversmoothing, and boundary amplification."

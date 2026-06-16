@@ -1,0 +1,2 @@
+first_train_action_l1,final_train_action_l1,final_train_action_l1_1000step_mean,best_val_step,best_val_action_l1,final_val_action_l1,final_minus_best_val_action_l1,num_steps,num_val_points
+0.8053385615348816,0.48519521951675415,0.4515017004609108,15000,0.5409390446729958,0.6485505253076553,0.10761148063465953,100000,95001

@@ -1,0 +1,5 @@
+experiment,config,augmentation,size_control,default_manual_gpu
+act_ABC_full,project/configs/act_ABC_full.yaml,no,full ABC data,1
+act_ABC_aug_full,project/configs/act_ABC_aug_full.yaml,"yes, matched to ACT-B-aug",full ABC data,3
+act_ABC_size_matched_full,project/configs/act_ABC_size_matched_full.yaml,no,balanced to ACT-B train-frame budget,2
+act_ABC_size_matched_aug_full,project/configs/act_ABC_size_matched_aug_full.yaml,"yes, matched to ACT-B-aug",balanced to ACT-B train-frame budget,4

@@ -1,0 +1,4 @@
+model,display_name,checkpoint,num_sequences,avg_successful_sequence_length,sr_chain_1,sr_chain_2,sr_chain_3,sr_chain_4,sr_chain_5,attempted_subtasks,single_subtask_success_rate,rollout_action_steps,chunk_size
+act_lang_B_100k,ACT-Lang-B 100k,/EXT_DISK/users/zengzixuan/calvin_runs/act_lang_B/20260606_112848_act_lang_B_full_gpu0/checkpoint,1000,0.361,0.268,0.071,0.02,0.002,0.0,1361,0.2652461425422483,25,100
+act_lang_ABC_size_matched_100k,ACT-Lang-ABC Size-Matched 100k,/EXT_DISK/users/zengzixuan/calvin_runs/act_lang_ABC_size_matched/20260606_164015_act_lang_ABC_size_matched_full_gpu2/checkpoint,1000,1.248,0.606,0.341,0.173,0.086,0.042,2206,0.5657298277425205,25,100
+act_lang_ABC_200k,ACT-Lang-ABC 200k,/EXT_DISK/users/zengzixuan/calvin_runs/act_lang_ABC_continue_200k/20260607_083058_act_lang_ABC_full_continue_200k_gpu1/checkpoint,1000,1.627,0.705,0.444,0.251,0.141,0.086,2541,0.6402990948445494,25,100
